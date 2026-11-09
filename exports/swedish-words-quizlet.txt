@@ -1,0 +1,995 @@
+anlända	to arrive
+anpassa	to adapt, adjust
+ansöka	to apply
+använda	to use
+avbryta	to interrupt, cancel
+avböja	to decline, refuse
+avsluta	to finish, complete
+avsätta	to set aside, allocate
+bekräfta	to confirm
+beskriva	to describe
+besluta	to decide
+bestå	to consist of
+beställa	to order
+betyda	to mean
+boka	to book, reserve
+dela	to share, divide
+delta	to participate
+diskutera	to discuss
+erbjuda	to offer
+erfara	to experience
+förklara	to explain
+förändra	to change, alter
+försöka	to try, attempt
+förstå	to understand
+försvinna	to disappear
+förvänta	to expect
+godkänna	to approve, accept
+jämföra	to compare
+kämpa	to fight, struggle
+känna	to feel, know (a person)
+koncentrera	to concentrate
+kontrollera	to check, control
+kräva	to demand, require
+lyckas	to succeed
+lämna	to leave
+lösa	to solve
+motsvara	to correspond to
+mötas	to meet (each other)
+nå	to reach
+nämna	to mention
+ordna	to arrange, organize
+påverka	to influence, affect
+planera	to plan
+rekommendera	to recommend
+reparera	to repair
+sakna	to miss, lack
+samla	to collect, gather
+samarbeta	to cooperate, collaborate
+skapa	to create
+skilja	to separate, distinguish
+skydda	to protect
+spara	to save
+stödja	to support
+söka	to search, apply for
+tillåta	to allow, permit
+undvika	to avoid
+undersöka	to investigate, examine
+utveckla	to develop
+välja	to choose, select
+ändra	to change
+anmäla	to report, register
+anteckna	to take notes
+anstränga	to strain, exert
+avse	to intend, refer to
+avslöja	to reveal, disclose
+begära	to request, demand
+begränsa	to limit, restrict
+behandla	to treat, process
+behålla	to keep, retain
+bekymra	to worry, concern
+belasta	to burden, load
+bero	to depend on
+bevara	to preserve
+bevisa	to prove
+bidra	to contribute
+blanda	to mix
+drabba	to affect, strike
+dröja	to delay, take time
+dölja	to hide, conceal
+ersätta	to replace, compensate
+fastställa	to establish, determine
+förbjuda	to forbid, prohibit
+förbereda	to prepare
+fördröja	to delay
+föreslå	to suggest, propose
+förhandla	to negotiate
+förhindra	to prevent
+förlora	to lose
+förmå	to induce, be able to
+förnya	to renew
+försäkra	to insure, assure
+försvara	to defend
+förvandla	to transform
+genomföra	to implement, carry out
+hämta	to fetch, pick up
+hända	to happen, occur
+hänvisa	to refer, direct
+höja	to raise, increase
+innebära	to involve, imply
+innehålla	to contain, hold
+investera	to invest
+kartlägga	to map out, survey
+kränka	to violate, offend
+leda	to lead
+minska	to reduce, decrease
+misstänka	to suspect
+misslyckas	to fail
+orsaka	to cause
+påstå	to claim, assert
+pågå	to be ongoing, continue
+påminna	to remind
+sänka	to lower, reduce
+tillbringa	to spend (time)
+tillhöra	to belong to
+tillverka	to manufacture, produce
+tvinga	to force, compel
+uppfylla	to fulfill, satisfy
+uppnå	to achieve, reach
+upptäcka	to discover
+uttrycka	to express
+utnyttja	to utilize, exploit
+värdera	to evaluate, rate
+växa	to grow
+övertyga	to convince, persuade
+öka	to increase
+anta	to assume, accept
+avstå	to refrain, abstain
+belysa	to highlight, illuminate
+bedöma	to judge, assess
+bemöta	to respond to, treat
+bevilja	to grant, approve
+debattera	to debate
+dra	to pull, draw
+döma	to judge, sentence
+engagera	to engage, involve
+framhålla	to emphasize, stress
+framstå	to appear, seem
+fungera	to function, work
+förvalta	to manage, administer
+granska	to review, inspect
+gälla	to apply, be valid
+hantera	to handle, deal with
+hävda	to claim, assert
+häva	to lift, rescind
+inleda	to initiate, begin
+inrätta	to set up, establish
+inse	to realize
+intressera	to interest
+kritisera	to criticize
+motivera	to motivate, justify
+notera	to note, notice
+orientera	to orient, inform
+prioritera	to prioritize
+publicera	to publish
+redovisa	to report, present
+reflektera	to reflect
+registrera	to register
+respektera	to respect
+satsa	to invest, bet
+skada	to damage, injure
+sköta	to manage, care for
+stärka	to strengthen
+styra	to steer, govern
+säkra	to secure, ensure
+tillämpa	to apply (a method/rule)
+tolka	to interpret
+uppfatta	to perceive, grasp
+upphöra	to cease, end
+uppmana	to urge, call upon
+upprätta	to draw up, establish
+uppstå	to arise, originate
+utbilda	to educate, train
+utföra	to perform, carry out
+utgöra	to constitute, form
+utse	to appoint, choose
+utvecklas	to evolve, develop
+värna	to protect, guard
+vägra	to refuse
+översätta	to translate
+överväga	to consider, weigh
+ett ansvar	responsibility
+en ansökan	application
+en anställning	employment
+en arbetsplats	workplace
+ett avtal	agreement, contract
+ett beslut	decision
+en chef	manager, boss
+en ekonomi	economy, finances
+en erfarenhet	experience
+ett företag	company, business
+ett förslag	proposal, suggestion
+ett samhälle	society
+en styrelse	board of directors
+en utbildning	education
+en utveckling	development
+ett yrke	profession, occupation
+en lön	salary, wage
+ett möte	meeting
+ett projekt	project
+ett resultat	result
+en regel	rule
+en lag	law
+en skatt	tax
+en tjänst	service, job post
+en utmaning	challenge
+en allmänhet	general public
+en anställd	employee
+en avdelning	department, division
+en avgift	fee, charge; maintenance fee
+en fastighet	real estate, property
+en forskning	research
+ett framsteg	progress
+en försäkring	insurance
+en handling	action, document
+en invånare	resident, inhabitant
+en konsument	consumer
+en ledning	management, leadership
+en personal	staff, personnel
+en rättighet	right (legal/moral)
+en skyldighet	duty, obligation
+en sjukvård	healthcare
+ett stöd	support, grant
+en tillgång	asset, access
+en tillväxt	growth
+en utgift	expense
+en verksamhet	activity, operations
+en vinst	profit, win
+en åtgärd	measure, action
+en överenskommelse	agreement
+ett utbud	supply, range
+en efterfrågan	demand
+en jämställdhet	gender equality
+en rättvisa	justice, fairness
+en trygghet	security, safety
+en invandring	immigration
+en befolkning	population
+en myndighet	government authority
+ett samarbete	cooperation
+en resurs	resource
+en konsumtion	consumption
+en demokrati	democracy
+ett val	election, choice
+en politiker	politician
+ett parti	political party
+en regering	government
+en riksdag	parliament
+en kommun	municipality
+en region	region, county
+en skattelag	tax law
+en budget	budget
+en marknad	market
+en industri	industry
+en handel	trade, commerce
+en export	export
+en import	import
+en konkurrens	competition
+en kund	customer, client
+en leverantör	supplier
+en kollega	colleague
+en fackförening	trade union
+en anledning	reason
+en bostad	housing, residence
+en framtid	future
+en hälsa	health
+ett klimat	climate
+en kultur	culture
+en miljö	environment
+en möjlighet	opportunity, possibility
+en natur	nature
+ett område	area, region
+ett problem	problem
+en säkerhet	safety, security
+en situation	situation
+en skillnad	difference
+en sjukdom	illness, disease
+en trafik	traffic
+en vana	habit
+en vetenskap	science
+en åsikt	opinion
+ett ändamål	purpose
+en betydelse	meaning, significance
+en del	part, portion
+en effekt	effect, impact
+ett faktum	fact
+en fördel	advantage
+en nackdel	disadvantage
+en grund	foundation, basis
+en händelse	event, incident
+en idé	idea
+ett innehåll	content
+en känsla	feeling, emotion
+en kunskap	knowledge
+en lösning	solution
+ett mål	goal, target
+en mängd	amount, quantity
+en orsak	cause, reason
+en plan	plan
+en risk	risk
+en sanning	truth
+ett syfte	purpose, aim
+ett tillstånd	condition, permit
+en verklighet	reality
+ett värde	value, worth
+en anpassning	adaptation
+en anteckning	note
+en användning	usage, application
+ett avstånd	distance
+ett begrepp	concept
+en behandling	treatment
+ett behov	need
+ett belopp	amount of money
+ett beroende	addiction, dependency
+en beskrivning	description
+en förbindelse	connection, link
+en förändring	change
+en hänsyn	consideration, respect
+en jämförelse	comparison
+en källa	source
+en kvalitet	quality
+en mätning	measurement
+en motsats	opposite
+en ordning	order, neatness
+en påverkan	impact, influence
+ett samband	relation, connection
+ett sammanhang	context
+en satsning	initiative, investment
+en slutsats	conclusion
+en undersökning	survey, investigation
+en utrustning	equipment
+ett yttrande	statement, opinion
+en attityd	attitude
+en bakgrund	background
+ett betyg	grade, rating
+en brist	lack, shortage
+en detalj	detail
+en diskussion	discussion
+ett fokus	focus
+en framgång	success
+en frihet	freedom
+en gemenskap	community, fellowship
+en gräns	border, limit; limit, threshold
+en grundval	foundation, basis
+ett hinder	obstacle, barrier
+ett hushåll	household
+ett inflytande	influence
+en information	information
+en insats	effort, contribution
+ett intresse	interest
+ett krav	requirement, demand
+en kris	crisis
+en kritik	criticism
+en livsstil	lifestyle
+en metod	method
+ett mönster	pattern
+en nivå	level
+en princip	principle
+en process	process
+en reaktion	reaction
+en roll	role
+en sammanfattning	summary
+ett skäl	reason, motive
+en struktur	structure
+ett svar	answer, response
+ett system	system
+en teknik	technology, technique
+en tendens	tendency, trend
+en teori	theory
+en tidpunkt	point in time
+ett tillfälle	occasion, opportunity
+en tradition	tradition
+en uppgift	task, data
+en upplevelse	experience
+ett ursprung	origin
+ett uttryck	expression
+en yta	surface, area
+en ålder	age
+ett ämne	subject, topic, substance
+en avsikt	intention
+ett bakslag	setback
+en belastning	load, strain
+aktuell	current, relevant
+allmän	general, public
+ansvarig	responsible
+beroende	dependent
+behövlig	necessary
+bestämd	determined, specific
+bred	broad, wide
+tydlig	clear, distinct
+enkel	simple, easy
+ensam	lonely, alone
+farlig	dangerous
+fysisk	physical
+försiktig	cautious, careful
+gemensam	common, shared
+gravid	pregnant
+hel	whole, entire
+hälsosam	healthy
+huvudsaklig	main, principal
+intressant	interesting
+känslig	sensitive
+klar	clear, ready
+komplett	complete
+kraftig	powerful, heavy, sturdy
+likadan	identical, same
+lokal	local
+märklig	strange, remarkable
+möjlig	possible
+motsatt	opposite
+muntlig	oral, verbal
+naturlig	natural
+nödvändig	necessary, essential
+nöjd	satisfied, pleased
+närvarande	present, attending
+obekväm	uncomfortable
+olika	different, various
+osäker	uncertain, insecure
+personlig	personal
+plötslig	sudden
+positiv	positive
+praktisk	practical
+psykisk	mental, psychological
+ren	clean, pure
+sällsynt	rare
+säker	safe, sure
+sannolik	probable, likely
+senast	recent, latest
+självständig	independent
+skriftlig	written
+snabb	fast, quick
+spännande	exciting
+stark	strong
+svår	difficult, hard
+särskild	special, particular
+tidig	early
+tillräcklig	sufficient, enough
+tom	empty
+trygg	secure, safe
+tung	heavy
+typisk	typical
+tyst	quiet, silent
+underbar	wonderful
+unik	unique
+utländsk	foreign
+vanlig	common, usual
+viktig	important
+värdefull	valuable
+allvarlig	serious
+annorlunda	different
+begränsad	limited, restricted
+betydande	significant, considerable
+definitiv	definitive, final
+ekonomisk	economic, financial
+enhetlig	uniform, standardized
+faktisk	actual, factual
+frivillig	voluntary
+grundläggande	fundamental, basic
+gällande	valid, current
+hållbar	sustainable, durable
+hänsynsfull	considerate
+laglig	legal, lawful
+lämplig	suitable, appropriate
+motsvarande	corresponding; equivalent
+medveten	aware, conscious
+märkbar	noticeable
+noggrann	meticulous, careful
+nyttig	useful, healthy
+officiell	official
+olaglig	illegal
+pålitlig	reliable, trustworthy
+rimlig	reasonable, fair
+uppenbar	obvious, apparent
+väsentlig	essential, vital
+aktiv	active
+akut	acute, urgent
+avancerad	advanced
+beviljad	granted, approved
+central	central, key
+direkt	direct
+djup	deep
+effektiv	effective, efficient
+exakt	exact, precise
+enorm	enormous, huge
+falsk	false, fake
+fast	fixed, solid
+flexibel	flexible
+formell	formal
+framtida	future (attributive)
+färsk	fresh
+grundlig	thorough
+hemlig	secret
+historisk	historical
+idealisk	ideal
+indirekt	indirect
+internationell	international
+komplex	complex
+konkret	concrete, specific
+kritisk	critical
+långsiktig	long-term
+kortsiktig	short-term
+logisk	logical
+måttlig	moderate
+negativ	negative
+neutral	neutral
+normal	normal, standard
+objektiv	objective
+okänd	unknown
+osynlig	invisible
+passande	suitable, fitting
+passiv	passive
+perfekt	perfect
+permanent	permanent
+populär	popular
+preliminär	preliminary
+primär	primary
+relevant	relevant
+relativ	relative
+sann	true
+sen	late
+skadlig	harmful
+stabil	stable
+ständig	constant, continuous
+synlig	visible
+tillfällig	temporary, accidental
+traditionell	traditional
+upptagen	busy, occupied
+uttrycklig	explicit, express
+viss	certain, specific
+ytlig	superficial
+öppen	open, transparent
+ömsesidig	mutual
+överdriven	exaggerated
+överraskande	surprising
+oberoende	independent
+påtaglig	tangible, obvious
+storslagen	grand, magnificent
+svag	weak
+tillåtlig	permissible
+utbredd	widespread
+aldrig	never
+alltid	always
+annars	otherwise
+antagligen	probably
+därför	therefore, that's why
+däremot	on the other hand
+egentligen	actually, really
+endast	only, solely
+fortfarande	still
+försiktigt	carefully
+ganska	quite, rather
+gärna	gladly, willingly
+genast	immediately, at once
+ibland	sometimes
+i stället	instead
+ju	as you know, after all
+kanske	maybe, perhaps
+knappast	hardly, scarcely
+länge	for a long time
+nästan	almost, nearly
+ofta	often
+också	also, too
+plötsligt	suddenly
+precis	precisely, exactly
+redan	already
+särskilt	especially, particularly
+snart	soon
+tyvärr	unfortunately
+absolut	absolutely
+följaktligen	consequently
+förresten	by the way
+hittills	so far, hitherto
+hursomhelst	anyhow, anyway
+likaså	likewise
+nämligen	namely, that is to say
+samtidigt	simultaneously, at the same time
+sannolikt	likely, probably
+slutligen	finally, in conclusion
+således	thus, therefore
+alltför	far too, overly
+annanstans	elsewhere
+därmed	thereby, thus
+dessutom	furthermore, in addition
+dock	however, yet
+drygt	slightly more than
+eventuellt	possibly, potentially
+framför allt	above all
+fortsättningsvis	in the future, moving forward
+förgäves	in vain
+förmodligen	presumably, likely
+först och främst	first and foremost
+helt enkelt	simply
+huvudsakligen	mainly, primarily
+i alla fall	in any case
+i princip	in principle
+i själva verket	in fact, as a matter of fact
+ingalunda	by no means
+inte heller	neither, nor
+inte minst	not least
+kort sagt	in short
+möjligen	possibly
+naturligtvis	naturally, of course
+nyligen	recently, lately
+nästan aldrig	hardly ever
+oavsett	regardless of
+oftast	mostly, usually
+omgående	immediately, promptly
+ordentligt	properly, thoroughly
+personligen	personally
+sakta	slowly
+självklart	obviously, naturally
+sällan	seldom, rarely
+tidigare	earlier, previously
+tills vidare	for the time being, until further notice
+trots allt	after all, despite everything
+tydligen	apparently, evidently
+ungefär	approximately, about
+uppenbarligen	obviously, clearly
+ursprungligen	originally
+uttryckligen	explicitly
+vanligtvis	usually, normally
+verkligen	really, truly
+ytterst	extremely, ultimately
+ytterligare	additionally, further
+ännu	even, yet
+ändå	anyway, still
+överhuvudtaget	at all, overall
+övervägande	predominantly
+återigen	once again
+däribland	including among them
+fastän	although, even though
+eftersom	since, because
+ifall	in case, if
+om	if, whether
+medan	while, whereas
+tills	until
+trots	despite, in spite of
+genom	through, by means of
+enligt	according to
+bland	among
+innan	before (conjunction)
+sedan	since, after, then
+utan	without, but rather
+förutom	besides, except for
+angående	regarding, concerning
+beträffande	concerning, regarding
+bortsett från	apart from, setting aside
+då	when, since, as
+därför att	because
+efter	after, according to
+från	from
+för att	in order to
+före	before (preposition)
+gentemot	towards, against
+hos	with, at the house of
+i enlighet med	in accordance with
+i samband med	in connection with
+i stället för	instead of
+inför	ahead of, facing
+inom	within
+intill	next to, beside
+kring	around, regarding
+liksom	as well as, like
+med anledning av	on the occasion of, due to
+med tanke på	considering, in view of
+mellan	between
+mot	towards, against
+omkring	around, approximately
+på grund av	because of, due to
+samt	as well as, and
+samtidigt som	while at the same time
+så att	so that
+så länge	as long as
+till följd av	as a result of
+trots att	even though
+under	during, under
+utan att	without (doing something)
+utöver	in addition to, beyond
+via	via, by way of
+åt	for, to
+hålla med	to agree
+komma på	to think of, remember
+se ut	to look like, appear
+stänga av	to turn off, switch off
+sätta på	to turn on, switch on
+ta hand om	to take care of
+ta reda på	to find out, ascertain
+vara tvungen	to be forced/obligated
+vänja sig	to get used to
+ge upp	to give up
+göra i ordning	to prepare, get ready
+hälsa på	to visit
+känna igen	to recognize
+lägga till	to add
+passa på	to take the opportunity
+se fram emot	to look forward to
+skriva under	to sign
+ställa in	to cancel, adjust
+ta emot	to receive, accept
+tänka efter	to think twice, reflect
+bero på	depends on
+bära sig åt	to behave, act
+dyka upp	to show up, turn up
+falla i glömska	to fall into oblivion
+få tag på	to get hold of
+föra vidare	to pass along
+hålla på med	to be busy with
+hålla tummarna	to keep fingers crossed
+komma överens	to reach an agreement
+lägga märke till	to pay attention to, notice
+ställa krav	to make demands
+ställa frågor	to ask questions
+ta hänsyn till	to take into consideration
+ta initiativ	to take initiative
+ta plats	to take place, take room
+ta ställning	to take a stance
+vara beredd på	to be prepared for
+vara medveten om	to be aware of
+visa sig	to turn out, prove to be
+än så länge	for now, so far
+anlända till	to arrive at
+bestämma sig för	to decide on
+bära med sig	to bring along, carry
+dra nytta av	to benefit from, exploit
+föra över	to transfer
+gå med på	to consent to, agree to
+gå igenom	to go through, experience
+hålla fast vid	to stick to, adhere to
+hålla sig till	to stick to, keep to
+höra av sig	to get in touch
+komma fram till	to arrive at (a conclusion)
+lägga ner	to shut down, invest (time)
+lita på	to trust, rely on
+plocka fram	to bring out, produce
+råka ut för	to suffer, meet with
+se till	to ensure, make sure
+sätta igång	to set in motion, start
+ta avstånd från	to distance oneself from
+ta för givet	to take for granted
+utgå från	to assume, base on
+ett avfall	waste, garbage
+en återvinning	recycling
+ett utsläpp	emissions, discharge
+en förorening	pollution
+en energi	energy
+en el	electricity
+ett bränsle	fuel
+en klimatförändring	climate change
+ett ekosystem	ecosystem
+en hållbarhet	sustainability
+en sopsortering	waste sorting
+en solenergi	solar energy
+en vindkraft	wind power
+ett skyddat område	protected area
+en naturtillgång	natural resource
+en smitta	infection, contagion
+ett recept	prescription, recipe
+en medicin	medicine, medication
+ett symtom	symptom
+en diagnos	diagnosis
+en vårdcentral	health center, clinic
+ett sjukhus	hospital
+en läkare	doctor, physician
+en sjuksköterska	nurse
+en patient	patient
+en akutmottagning	emergency room
+en skada	injury, damage
+en smärta	pain, ache
+en terapi	therapy
+en psykisk hälsa	mental health
+ett välmående	well-being
+en motion	exercise, physical activity
+en kost	diet, nutrition
+en bostadsrätt	tenant-owned apartment
+en hyresrätt	rented apartment
+en villa	single-family house
+en hyra	rent
+ett lån	loan
+en ränta	interest rate
+en amortering	mortgage payment / amortization
+en granne	neighbor
+en renovering	renovation
+ett underhåll	maintenance
+en fastighetsägare	property owner
+ett kontrakt	lease contract
+en uppsägning	termination, notice
+en flytt	move, relocation
+en städning	cleaning
+ett förråd	storage room
+en tvättstuga	shared laundry room
+ett gemensamhetsutrymme	communal area
+en trädgård	garden
+en balkong	balcony
+en mäklare	real estate agent
+en visning	property viewing
+en budgivning	bidding process
+en fastighetsskatt	property tax
+en uppvärmning	heating
+en isolering	insulation
+en forskare	researcher, scientist
+ett universitet	university
+en högskola	college, higher education institution
+en examen	degree, graduation
+en kurs	course
+en föreläsning	lecture
+ett seminarium	seminar
+ett studiemedel	student financial aid
+en avhandling	thesis, dissertation
+en litteratur	literature
+en pedagogik	pedagogy, teaching method
+en dator	computer
+ett nätverk	network
+en mjukvara	software
+en hårdvara	hardware
+en databas	database
+en algoritm	algorithm
+en applikation	application, app
+ett användargränssnitt	user interface
+en digitalisering	digitalization
+en skärm	screen
+en molntjänst	cloud service
+en uppkoppling	internet connection
+en tidning	newspaper, magazine
+en journalistik	journalism
+en nyhet	news item
+en sändning	broadcast
+en artikel	article
+ett pressmeddelande	press release
+en källkritik	critical evaluation of sources
+en yttrandefrihet	freedom of speech
+en tryckfrihet	freedom of the press
+en reklam	advertisement, advertising
+en målgrupp	target audience
+ett budskap	message
+en kommunikation	communication
+en podd	podcast
+en redaktör	editor
+en publicering	publishing
+en granskning	investigative review
+en student	student
+en professor	professor
+ett klassrum	classroom
+en tenta	exam, test
+en läroplan	curriculum
+en skärmtid	screen time
+ett lösenord	password
+en säkerhetskopia	backup
+en länk	link, hyperlink
+en webbplats	website
+ett konto	bank account
+ett sparkonto	savings account
+en investering	investment
+en aktie	stock, share
+en fond	mutual fund
+en deklaration	tax return
+en inkomst	income
+en faktura	invoice
+ett kvitto	receipt
+en skuld	debt
+en kredit	credit
+en konkurs	bankruptcy
+en valuta	currency
+en växelkurs	exchange rate
+en inflation	inflation
+en sänkning	cut, reduction
+en domstol	court of law
+en dom	verdict, sentence
+en åklagare	prosecutor
+en advokat	lawyer, defense attorney
+ett vittne	witness
+ett brott	crime, offense
+ett straff	punishment, penalty
+en polis	police
+en utredning	investigation
+en lagstiftning	legislation
+en paragraf	section/paragraph in law
+ett skadestånd	compensation, damages
+ett myndighetsbeslut	official decision
+ett överklagande	legal appeal
+en blankett	form, application document
+ett intyg	certificate, attestation
+en handläggare	caseworker, administrator
+en handläggning	processing of a case
+en legitimation	ID card, qualification
+ett pass	passport
+ett personnummer	personal identity number
+en stämpel	stamp, seal
+en fullmakt	power of attorney
+en registrering	registration
+en taxering	tax assessment
+en tull	customs
+böter (pl.)	fine, penalty fee
+en stämning	summons, lawsuit; atmosphere, mood
+ett brottmål	criminal case
+ett tvistemål	civil dispute
+en riksbank	central bank
+en styrränta	policy rate
+en utdelning	dividend
+ett amorteringskrav	mortgage repayment requirement
+en inställning	attitude, mindset
+ett argument	argument
+en invändning	objection
+ett påstående	assertion, statement
+en kompromiss	compromise
+en enighet	consensus, agreement
+en oenighet	disagreement
+ett beröm	praise, compliment
+en tvekan	hesitation, doubt
+en osäkerhet	uncertainty
+en glädje	joy, happiness
+en sorg	grief, sorrow
+en ilska	anger, rage
+en rädsla	fear, dread
+en oro	worry, anxiety
+ett hopp	hope
+en längtan	longing, yearning
+en besvikelse	disappointment
+en stolthet	pride
+en skam	shame
+en avundsjuka	jealousy, envy
+en sympati	sympathy
+en empati	empathy
+en lättnad	relief
+en nyfikenhet	curiosity
+ett samtal	conversation, call
+en dialog	dialogue
+en presentation	presentation
+en redogörelse	account, statement
+ett meddelande	message, notification
+ett rykte	rumor, reputation
+ett tonfall	tone of voice
+ett kroppsspråk	body language
+ett missförstånd	misunderstanding
+ett förtroende	trust, confidence
+en misstänksamhet	suspicion
+en respekt	respect
+en ärlighet	honesty
+en vänskap	friendship
+en kärlek	love
+en konflikt	conflict
+en tillit	trust, reliance
+en misstro	distrust
+en häpnad	amazement, astonishment
+en beundran	admiration
+en hänsynslöshet	ruthlessness
+en vilja	will, desire
+en lystnad	craving
+en medkänsla	compassion
+en tidsperiod	time period
+en epok	era, epoch
+ett sekel	century
+ett årtionde	decade
+en dåtid	past
+en nutid	present time
+en tidsgräns	deadline
+en varaktighet	duration
+ett antal	number, count
+en volym	volume
+en vikt	weight, importance
+ett mått	measure, dimension
+en längd	length, height
+en bredd	width
+ett djup	depth
+en höjd	height, altitude
+en hastighet	speed, velocity
+en temperatur	temperature
+en procent	percent
+en andel	share, proportion
+en majoritet	majority
+en minoritet	minority
+ett genomsnitt	average
+en ökning	increase, growth
+en minskning	decrease, reduction
+en kapacitet	capacity
+en grad	degree, extent
+en omfattning	scope, extent
+en utsträckning	extent, degree
+en skala	scale
+en kvantitet	quantity
+en enhet	unit, entity
+en beräkning	calculation, estimate
+en uppskattning	estimate, evaluation
+en tidtabell	timetable, schedule
+ett schema	schedule, timetable
+en försening	delay
+en minut	minute
+en timme	hour
+ett dygn	24-hour period
+en månad	month
+ett år	year
+en millimeter	millimeter
+en centimeter	centimeter
+en meter	meter
+en kilometer	kilometer
+ett gram	gram
+ett kilo	kilogram
+en liter	liter

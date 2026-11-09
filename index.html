@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);box-sizing:border-box}body{margin:0}[hidden]{display:none!important}</style>
+<title>Ordkort</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="theme-color" content="#1f4fa3">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ordkort">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one narrow column, phone first. A home screen with deck controls, a study screen built around one big card, and a word list. */
+:root{
+  --bg:#eef1f4; --surface:#ffffff; --ink:#15233a; --muted:#5b6779; --line:#d6dce4;
+  --accent:#1f4fa3; --accent-ink:#ffffff; --sun:#e9b21f; --sun-soft:#fbf1d2;
+  --hard:#2f7fb8; --hard-soft:#dcecf7; --learn:#8a5a00; --learn-soft:#f6ead0; --known:#2e7d4f; --known-soft:#dcefe3;
+  --en:#1f4fa3; --ett:#b0432b; --again:#b0432b;
+  --shadow:0 1px 2px rgba(21,35,58,.06),0 8px 28px rgba(21,35,58,.10);
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:14px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1621; --surface:#18222f; --ink:#e7ecf3; --muted:#9aa6b7; --line:#2a3646;
+  --accent:#7aa7ff; --accent-ink:#0d1a33; --sun:#f0c24a; --sun-soft:#3a3218;
+  --hard:#7cc0ee; --hard-soft:#1b3346; --learn:#f0c24a; --learn-soft:#3a3218; --known:#79d29d; --known-soft:#173326;
+  --en:#8fb4ff; --ett:#ff9b82; --again:#ff9b82;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1621; --surface:#18222f; --ink:#e7ecf3; --muted:#9aa6b7; --line:#2a3646;
+  --accent:#7aa7ff; --accent-ink:#0d1a33; --sun:#f0c24a; --sun-soft:#3a3218;
+  --hard:#7cc0ee; --hard-soft:#1b3346; --learn:#f0c24a; --learn-soft:#3a3218; --known:#79d29d; --known-soft:#173326;
+  --en:#8fb4ff; --ett:#ff9b82; --again:#ff9b82;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}
+[hidden]{display:none!important}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;-webkit-tap-highlight-color:transparent}
+.wrap{max-width:560px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:18px 40px;display:flex;flex-direction:column;gap:22px;min-height:100%;box-sizing:border-box}
+h1,h2{font-family:var(--display);margin:0;text-wrap:balance;letter-spacing:-.01em}
+h1{font-size:2rem;font-weight:700;line-height:1.05}
+h2{font-size:1.05rem;font-weight:700}
+.label{font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:700}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,input:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+.top{display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
+.top p{margin:4px 0 0;color:var(--muted)}
+.stripe{display:inline-block;width:34px;height:6px;border-radius:3px;background:linear-gradient(90deg,var(--accent) 0 60%,var(--sun) 60%);margin-bottom:10px}
+
+/* stats */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.stat b{font-family:var(--display);font-size:1.6rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat.hard b{color:var(--hard)} .stat.learning b{color:var(--learn)} .stat.known b{color:var(--known)}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;background:var(--line)}
+.bar i{display:block;height:100%}
+.today{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:.9rem}
+.today b{color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* controls */
+.group{display:flex;flex-direction:column;gap:8px}
+.seg{display:flex;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:3px;gap:3px}
+.seg button{flex:1;border:0;background:transparent;border-radius:9px;padding:9px 6px;font-weight:700;font-size:.9rem;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;display:inline-flex;gap:6px;align-items:center}
+.chip small{color:var(--muted);font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed="true"] small{color:inherit;opacity:.7}
+.primary{border:0;background:var(--accent);color:var(--accent-ink);border-radius:var(--r);padding:16px;font-weight:700;font-size:1.1rem;font-family:var(--display);box-shadow:var(--shadow)}
+.primary:disabled{opacity:.45;cursor:default}
+.ghost{white-space:nowrap;border:1px solid var(--line);background:transparent;border-radius:10px;padding:8px 12px;font-size:.9rem}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.hint{color:var(--muted);font-size:.85rem;margin:0}
+
+/* study */
+.study-top{display:flex;align-items:center;gap:12px}
+.progress{flex:1;height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.progress i{display:block;height:100%;background:var(--accent);transition:width .25s}
+.count{font-variant-numeric:tabular-nums;color:var(--muted);font-size:.9rem;min-width:4.5em;text-align:right}
+.scene{perspective:1400px;flex:1;display:flex;min-height:340px}
+.card{position:relative;flex:1;transform-style:preserve-3d;transition:transform .45s cubic-bezier(.3,.7,.2,1);cursor:pointer;border:0;padding:0;background:none;text-align:center}
+.card.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;background:var(--surface);border-radius:20px;box-shadow:var(--shadow);border:1px solid var(--line);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:28px 22px;box-sizing:border-box;overflow:hidden}
+.face.back{transform:rotateY(180deg)}
+.face .meta{position:absolute;top:16px;left:18px;right:18px;display:flex;justify-content:space-between;gap:8px;align-items:center}
+.word{font-family:var(--display);font-weight:700;font-size:clamp(1.9rem,8.5vw,2.8rem);line-height:1.1;overflow-wrap:anywhere;text-wrap:balance}
+.word.en-side{font-family:var(--body);font-size:clamp(1.5rem,6.5vw,2.1rem)}
+.art{font-weight:500;font-size:.62em;vertical-align:.12em;margin-right:.25em}
+.art.en{color:var(--en)} .art.ett{color:var(--ett)}
+.sub{color:var(--muted);font-size:1.05rem;overflow-wrap:anywhere}
+.note{background:var(--sun-soft);border-radius:10px;padding:8px 12px;font-size:.9rem;max-width:34ch}
+.tap{position:absolute;bottom:16px;left:0;right:0;color:var(--muted);font-size:.85rem}
+.pill{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:3px 9px;white-space:nowrap}
+.pill.hard{background:var(--hard-soft);color:var(--hard)} .pill.learning{background:var(--learn-soft);color:var(--learn)} .pill.known{background:var(--known-soft);color:var(--known)}
+.catname{font-size:.78rem;color:var(--muted);text-align:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.speak{border:1px solid var(--line);background:var(--bg);border-radius:999px;width:44px;height:44px;display:inline-grid;place-items:center}
+.speak svg{width:20px;height:20px;fill:currentColor}
+.rate{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.rate button{border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:12px 4px 10px;display:flex;flex-direction:column;align-items:center;gap:2px;font-weight:700}
+.rate button small{font-weight:400;color:var(--muted);font-size:.75rem;font-variant-numeric:tabular-nums}
+.rate .again{color:var(--again)} .rate .hardb{color:var(--hard)} .rate .good{color:var(--known)} .rate .easy{color:var(--accent)}
+.reveal{width:100%}
+
+/* list */
+.search{width:100%;box-sizing:border-box;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:12px;padding:12px 14px;font:inherit}
+.list{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.item{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:10px 14px;border-top:1px solid var(--line);align-items:center}
+.item:first-child{border-top:0}
+.item .sv{font-weight:700;min-width:0;overflow-wrap:anywhere}
+.item .en{color:var(--muted);font-size:.9rem;grid-column:1;min-width:0}
+.item .pill{grid-row:1 / span 2;grid-column:2;border:0;cursor:pointer}
+.done{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:28px 22px;display:flex;flex-direction:column;gap:14px;text-align:center;box-shadow:var(--shadow)}
+.done .big{font-family:var(--display);font-size:3rem;font-weight:700;line-height:1}
+.confirm{background:var(--sun-soft);border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:10px}
+footer{color:var(--muted);font-size:.8rem;margin-top:auto}
+@media (prefers-reduced-motion: reduce){.card{transition:none}.progress i{transition:none}}
+</style>
+</head><body>
+<div class="wrap" id="app"></div>
+
+<script>
+let WORDS = null, CATS = [];
+function setWords(list) { WORDS = list.map((w, i) => ({ ...w, id: i })); CATS = [...new Set(WORDS.map(w => w.cat))]; }
+// Reads words.csv: swedish,english,category,level,note (quotes allowed around fields with commas)
+function parseCSV(text) {
+  const rows = []; let row = [], f = "", q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (q) { if (c === '"') { if (text[i + 1] === '"') { f += '"'; i++; } else q = false; } else f += c; }
+    else if (c === '"') q = true;
+    else if (c === ",") { row.push(f); f = ""; }
+    else if (c === "\n" || c === "\r") { if (c === "\r" && text[i + 1] === "\n") i++; row.push(f); rows.push(row); row = []; f = ""; }
+    else f += c;
+  }
+  if (f || row.length) { row.push(f); rows.push(row); }
+  const lv = { hard: "hard", learning: "learning", known: "known" };
+  return rows.slice(1).filter(r => r[0] && r[0].trim()).map(r => ({
+    sv: r[0].trim(), en: (r[1] || "").trim(), cat: (r[2] || "Other").trim(),
+    level: lv[(r[3] || "").trim().toLowerCase()] || "learning", ...(r[4] && r[4].trim() ? { note: r[4].trim() } : {})
+  }));
+}
+const DAY = 864e5;
+const INTERVAL = [0, 1, 2, 4, 7, 15, 30, 60]; // days per box
+const START_BOX = { hard: 0, learning: 2, known: 4 };
+const LABEL = { hard: "❄ Hard", learning: "👀 Learning", known: "🌻 Known" };
+const KEY = "ordkort-v1";
+
+const store = {
+  get() { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; } },
+  set(v) { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch {} }
+};
+let saved = store.get();
+let S = Object.assign({ prog: {}, cats: [], dir: "sv", size: 20, levels: [], log: {} }, saved);
+
+function save() { store.set(S); }
+function hash(str) { let h = 0; for (const ch of str) h = (h * 31 + ch.codePointAt(0)) >>> 0; return h % 14; }
+function prog(w) {
+  let p = S.prog[w.sv];
+  if (!p) {
+    const b = START_BOX[w.level];
+    // Words marked known are spread over two weeks so they mix in gradually.
+    p = { b, d: w.level === "known" ? startOfToday() + hash(w.sv) * DAY : 0, n: 0 };
+  }
+  return p;
+}
+function levelOf(w) { const b = prog(w).b; return b <= 1 ? "hard" : b <= 3 ? "learning" : "known"; }
+function startOfToday() { const d = new Date(); d.setHours(0, 0, 0, 0); return d.getTime(); }
+function todayKey() { const d = new Date(); return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); }
+function isDue(w) { return prog(w).d <= Date.now(); }
+function inFilter(w) {
+  return (!S.cats.length || S.cats.includes(w.cat)) && (!S.levels.length || S.levels.includes(levelOf(w)));
+}
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function svHTML(sv) {
+  const m = sv.match(/^(en|ett) (.+)$/);
+  return m ? `<span class="art ${m[1]}">${m[1]}</span>${esc(m[2])}` : esc(sv);
+}
+function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function streak() {
+  let n = 0; const d = new Date();
+  if (!S.log[todayKey()]) d.setDate(d.getDate() - 1);
+  for (;;) { const k = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); if (S.log[k]) { n++; d.setDate(d.getDate() - 1); } else return n; }
+}
+
+const app = document.getElementById("app");
+let view = "home", session = null, confirmReset = false, query = "";
+
+/* ---------- speech ---------- */
+let svVoice = null;
+function pickVoice() {
+  if (!("speechSynthesis" in window)) return;
+  const vs = speechSynthesis.getVoices();
+  svVoice = vs.find(v => /^sv/i.test(v.lang)) || null;
+}
+if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = () => { pickVoice(); if (view === "study") render(); }; }
+function speak(text) {
+  if (!svVoice) return;
+  try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text.replace(/\(.*?\)/g, "")); u.voice = svVoice; u.lang = svVoice.lang; u.rate = .9; speechSynthesis.speak(u); } catch {}
+}
+const SPK = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>`;
+
+/* ---------- home ---------- */
+function renderHome() {
+  const pool = WORDS.filter(inFilter);
+  const due = pool.filter(isDue);
+  const counts = { hard: 0, learning: 0, known: 0 };
+  WORDS.forEach(w => counts[levelOf(w)]++);
+  const today = S.log[todayKey()] || 0;
+  const pct = k => (counts[k] / WORDS.length * 100).toFixed(1) + "%";
+  const catCount = c => WORDS.filter(w => w.cat === c).length;
+  const size = Math.min(S.size, due.length);
+  app.innerHTML = `
+    <header class="top"><div><span class="stripe"></span><h1>Ordkort</h1><p>${WORDS.length} Swedish words, your marks as starting levels</p></div>
+      <button class="ghost" data-go="list">Word list</button></header>
+    <section class="group" aria-label="Your progress">
+      <div class="stats">
+        <div class="stat hard"><span class="label">❄ Hard</span><b>${counts.hard}</b></div>
+        <div class="stat learning"><span class="label">👀 Learning</span><b>${counts.learning}</b></div>
+        <div class="stat known"><span class="label">🌻 Known</span><b>${counts.known}</b></div>
+      </div>
+      <div class="bar" aria-hidden="true"><i style="width:${pct("hard")};background:var(--hard)"></i><i style="width:${pct("learning")};background:var(--sun)"></i><i style="width:${pct("known")};background:var(--known)"></i></div>
+      <div class="today"><span>Reviewed today <b>${today}</b></span><span>Streak <b>${streak()}</b> day${streak() === 1 ? "" : "s"}</span><span>Due now <b>${due.length}</b> of ${pool.length}</span></div>
+    </section>
+    <section class="group"><span class="label">Show first</span>
+      <div class="seg" role="group" aria-label="Direction">
+        ${[["sv", "Svenska → English"], ["en", "English → Svenska"], ["mix", "Mixed"]].map(([k, t]) => `<button data-dir="${k}" aria-pressed="${S.dir === k}">${t}</button>`).join("")}
+      </div></section>
+    <section class="group"><span class="label">Categories</span>
+      <div class="chips">
+        <button class="chip" data-cat="" aria-pressed="${!S.cats.length}">All <small>${WORDS.length}</small></button>
+        ${CATS.map(c => `<button class="chip" data-cat="${esc(c)}" aria-pressed="${S.cats.includes(c)}">${esc(c.replace(/^Nouns: /, "Nouns · "))} <small>${catCount(c)}</small></button>`).join("")}
+      </div></section>
+    <section class="group"><span class="label">Levels</span>
+      <div class="chips">
+        <button class="chip" data-lvl="" aria-pressed="${!S.levels.length}">All levels</button>
+        ${["hard", "learning", "known"].map(l => `<button class="chip" data-lvl="${l}" aria-pressed="${S.levels.includes(l)}">${LABEL[l]}</button>`).join("")}
+      </div></section>
+    <section class="group"><span class="label">Cards per session</span>
+      <div class="seg" role="group" aria-label="Session size">
+        ${[10, 20, 50, 100].map(n => `<button data-size="${n}" aria-pressed="${S.size === n}">${n}</button>`).join("")}
+      </div></section>
+    <div class="group">
+      ${due.length
+        ? `<button class="primary" data-start="due">Study ${size} card${size === 1 ? "" : "s"}</button>`
+        : `<button class="primary" data-start="extra" ${pool.length ? "" : "disabled"}>Nothing due. Practice ${Math.min(S.size, pool.length)} anyway</button>`}
+      <p class="hint">Tap the card to flip it. Rate how well you knew it, and cards you miss come back sooner. On a computer: space flips, 1 to 4 rates.</p>
+    </div>
+    <footer class="group">
+      ${confirmReset
+        ? `<div class="confirm"><span>Reset all progress back to your original marks? This cannot be undone.</span><div class="row"><button class="ghost" data-reset="yes">Yes, reset</button><button class="ghost" data-reset="no">Keep my progress</button></div></div>`
+        : `<div class="row"><span>Progress is saved on this device.</span><button class="ghost" data-reset="ask">Reset progress</button></div>`}
+    </footer>`;
+}
+
+/* ---------- study ---------- */
+function startSession(mode) {
+  const pool = WORDS.filter(inFilter);
+  let cards = mode === "due" ? pool.filter(isDue) : pool.slice();
+  cards = shuffle(cards).sort((a, b) => prog(a).b - prog(b).b);
+  cards = cards.slice(0, S.size);
+  session = { queue: cards.map(w => ({ w, dir: S.dir === "mix" ? (Math.random() < .5 ? "sv" : "en") : S.dir })), total: cards.length, done: 0, flipped: false, tally: { again: 0, hard: 0, good: 0, easy: 0 } };
+  view = "study"; render();
+}
+function nextDays(w, r) {
+  const b = prog(w).b;
+  const nb = r === "again" ? 0 : r === "hard" ? Math.max(1, b - 1) : r === "good" ? Math.min(7, Math.max(2, b + 1)) : Math.min(7, Math.max(3, b + 2));
+  return { nb, days: r === "again" ? 0 : INTERVAL[nb] || 1 };
+}
+function fmtDays(d) { return d === 0 ? "now" : d < 30 ? d + "d" : Math.round(d / 30) + "mo"; }
+function rate(r) {
+  const cur = session.queue[0]; if (!cur || !session.flipped) return;
+  const p = prog(cur.w); const { nb, days } = nextDays(cur.w, r);
+  S.prog[cur.w.sv] = { b: nb, d: r === "again" ? Date.now() : startOfToday() + days * DAY, n: (p.n || 0) + 1 };
+  S.log[todayKey()] = (S.log[todayKey()] || 0) + 1;
+  session.tally[r]++;
+  session.queue.shift();
+  if (r === "again") session.queue.splice(Math.min(3, session.queue.length), 0, cur);
+  else session.done++;
+  session.flipped = false;
+  save(); render();
+}
+function renderStudy() {
+  const cur = session.queue[0];
+  if (!cur) return renderDone();
+  const w = cur.w, lvl = levelOf(w);
+  const front = cur.dir === "sv"
+    ? `<div class="word">${svHTML(w.sv)}</div>`
+    : `<div class="word en-side">${esc(w.en)}</div>`;
+  const back = cur.dir === "sv"
+    ? `<div class="sub">${svHTML(w.sv)}</div><div class="word en-side">${esc(w.en)}</div>`
+    : `<div class="sub">${esc(w.en)}</div><div class="word">${svHTML(w.sv)}</div>`;
+  const speakBtn = svVoice ? `<button class="speak" data-speak aria-label="Say it in Swedish">${SPK}</button>` : "";
+  const meta = `<div class="meta"><span class="catname">${esc(w.cat)}</span><span class="pill ${lvl}">${LABEL[lvl]}</span></div>`;
+  const pctDone = session.done / session.total * 100;
+  app.innerHTML = `
+    <div class="study-top"><button class="ghost" data-go="home" aria-label="End session">✕ End</button>
+      <div class="progress" aria-hidden="true"><i style="width:${pctDone}%"></i></div>
+      <span class="count">${session.done} / ${session.total}</span></div>
+    <div class="scene">
+      <div class="card ${session.flipped ? "flipped" : ""}" data-flip role="button" tabindex="0" aria-label="${session.flipped ? "Answer shown" : "Show answer"}">
+        <div class="face front">${meta}${front}${cur.dir === "sv" ? speakBtn : ""}<span class="tap">Tap to flip</span></div>
+        <div class="face back">${meta}${back}${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}${speakBtn}</div>
+      </div>
+    </div>
+    <div class="rate" id="rate" ${session.flipped ? "" : "hidden"}>${[["again", "Again", "again"], ["hard", "Hard", "hardb"], ["good", "Good", "good"], ["easy", "Easy", "easy"]].map(([k, t, c]) => `<button class="${c}" data-rate="${k}">${t}<small>${fmtDays(nextDays(w, k).days)}</small></button>`).join("")}</div>
+    <button class="primary reveal" id="reveal" data-flip ${session.flipped ? "hidden" : ""}>Show answer</button>`;
+}
+function renderDone() {
+  const t = session.tally;
+  app.innerHTML = `
+    <div class="done"><span class="label">Session finished</span><div class="big">${session.total}</div><div>cards reviewed</div>
+      <div class="row" style="justify-content:center"><span class="pill hard">Again ${t.again}</span><span class="pill learning">Hard ${t.hard}</span><span class="pill known">Good ${t.good}</span><span class="pill known">Easy ${t.easy}</span></div>
+      <button class="primary" data-go="home">Back to deck</button></div>`;
+}
+
+/* ---------- list ---------- */
+function renderList() {
+  const q = query.trim().toLowerCase();
+  const rows = WORDS.filter(w => (!S.cats.length || S.cats.includes(w.cat)) && (!q || w.sv.toLowerCase().includes(q) || w.en.toLowerCase().includes(q)));
+  app.innerHTML = `
+    <header class="top"><div><h1>Word list</h1><p>${rows.length} words${S.cats.length ? " in your chosen categories" : ""}. Tap a level to change it.</p></div>
+      <button class="ghost" data-go="home">Back</button></header>
+    <input class="search" id="q" type="search" placeholder="Search Swedish or English" value="${esc(query)}" autocomplete="off">
+    <div class="list">${rows.slice(0, 400).map(w => { const l = levelOf(w); return `<div class="item"><span class="sv">${svHTML(w.sv)}</span><span class="en">${esc(w.en)}</span><button class="pill ${l}" data-cycle="${w.id}" aria-label="Level: ${l}. Change">${LABEL[l]}</button></div>`; }).join("") || `<div class="item"><span class="en">No words match “${esc(query)}”.</span></div>`}</div>
+    ${rows.length > 400 ? `<p class="hint">Showing the first 400. Search to find more.</p>` : ""}`;
+  const inp = document.getElementById("q");
+  inp.oninput = () => { query = inp.value; const pos = inp.selectionStart; renderList(); const n = document.getElementById("q"); n.focus(); n.setSelectionRange(pos, pos); };
+}
+
+function setFlip(v) {
+  session.flipped = v;
+  const c = app.querySelector(".card"); if (!c) return;
+  c.classList.toggle("flipped", v); c.setAttribute("aria-label", v ? "Answer shown" : "Show answer");
+  document.getElementById("rate").hidden = !v; document.getElementById("reveal").hidden = v;
+}
+function render() { if (view === "home") renderHome(); else if (view === "study") renderStudy(); else renderList(); }
+
+app.addEventListener("click", e => {
+  const t = e.target.closest("button,[data-flip]"); if (!t) return;
+  const d = t.dataset;
+  if ("speak" in d) { e.stopPropagation(); speak(session.queue[0].w.sv); return; }
+  if (d.go) { view = d.go; session = null; confirmReset = false; render(); window.scrollTo(0, 0); return; }
+  if (d.dir) { S.dir = d.dir; save(); render(); return; }
+  if (d.size) { S.size = +d.size; save(); render(); return; }
+  if (d.cat !== undefined) { if (!d.cat) S.cats = []; else S.cats = S.cats.includes(d.cat) ? S.cats.filter(c => c !== d.cat) : [...S.cats, d.cat]; save(); render(); return; }
+  if (d.lvl !== undefined) { if (!d.lvl) S.levels = []; else S.levels = S.levels.includes(d.lvl) ? S.levels.filter(c => c !== d.lvl) : [...S.levels, d.lvl]; save(); render(); return; }
+  if (d.start) { startSession(d.start); return; }
+  if (d.rate) { rate(d.rate); return; }
+  if (d.reset) { if (d.reset === "ask") confirmReset = true; else { if (d.reset === "yes") { S.prog = {}; S.log = {}; save(); } confirmReset = false; } render(); return; }
+  if (d.cycle) { const w = WORDS[+d.cycle]; const next = { hard: "learning", learning: "known", known: "hard" }[levelOf(w)]; S.prog[w.sv] = { b: START_BOX[next], d: next === "known" ? Date.now() + 7 * DAY : 0, n: prog(w).n || 0 }; save(); renderList(); return; }
+  if ("flip" in d && view === "study") setFlip(t.classList.contains("card") ? !session.flipped : true);
+});
+document.addEventListener("keydown", e => {
+  if (view !== "study" || !session || !session.queue.length || e.target.tagName === "INPUT") return;
+  if ((e.key === " " || e.key === "Enter") && e.target.tagName === "BUTTON") return;
+  if (e.key === " " || e.key === "Enter") { e.preventDefault(); setFlip(!session.flipped); }
+  const m = { "1": "again", "2": "hard", "3": "good", "4": "easy" }[e.key];
+  if (m && session.flipped) rate(m);
+});
+if (WORDS) { setWords(WORDS); render(); }
+else {
+  app.innerHTML = `<p class="hint">Loading words…</p>`;
+  fetch("words.csv").then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(t => { setWords(parseCSV(t)); render(); })
+    .catch(() => { app.innerHTML = `<p>Could not load words.csv. Check that the file is next to index.html, then reload.</p>`; });
+}
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+
+</body></html>
