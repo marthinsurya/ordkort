@@ -23,6 +23,7 @@ Flashcards for learning Swedish vocabulary. Works in any browser, installs on yo
 - **Show first** picks the direction: Swedish → English, English → Swedish, or mixed.
 - **Categories** and **Levels** narrow what you study. Tap several to combine them.
 - In **Word list** you can search every word, and tap a word's level to change it by hand.
+- After you flip a card, an example sentence shows under it in Swedish with the English translation, so you see how the word is used. The speaker button next to it reads the sentence aloud.
 - Nouns show their article in colour: *en* in blue, *ett* in red.
 - If your device has a Swedish voice, a speaker button reads the word aloud.
 - Keyboard on a computer: Space flips, 1 to 4 rates.
@@ -42,6 +43,8 @@ Columns:
 | `category` | any name; each new name becomes a filter chip | `Verbs` |
 | `level` | `hard`, `learning` or `known` (starting level only) | `learning` |
 | `note` | optional extra tip shown on the back of the card | `Nödvändig is more common today.` |
+| `example` | a short Swedish sentence using the word, shown under the card after you flip it | `Det finns många möjligheter här.` |
+| `example_english` | the English translation of that sentence | `There are many opportunities here.` |
 
 Progress is tied to the Swedish word, so fixing an English meaning keeps your progress, while changing the Swedish spelling starts that word fresh.
 
@@ -49,8 +52,8 @@ Progress is tied to the Swedish word, so fixing an English meaning keeps your pr
 
 The [`exports`](exports) folder has the same word list for other apps:
 
-- `swedish-words-anki.csv`: in Anki use **File > Import**. Fields are Front, Back, Tags (category and level).
-- `swedish-words-quizlet.txt`: in Quizlet create a set, choose **Import**, and paste the text. Use *Tab* between term and definition and *New line* between cards.
+- `swedish-words-anki.csv`: in Anki use **File > Import**. Fields are Front, Back, Tags (category and level). The example sentence is on the Back, under the meaning (tick **Allow HTML in fields** when importing).
+- `swedish-words-quizlet.txt`: in Quizlet create a set, choose **Import**, and paste the text. Use *Tab* between term and definition and *New line* between cards. Each definition ends with the example sentence and its translation.
 
 These exports aren't updated automatically when you edit `words.csv`.
 
