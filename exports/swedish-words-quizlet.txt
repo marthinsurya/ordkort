@@ -1,995 +1,995 @@
-anlända	to arrive
-anpassa	to adapt, adjust
-ansöka	to apply
-använda	to use
-avbryta	to interrupt, cancel
-avböja	to decline, refuse
-avsluta	to finish, complete
-avsätta	to set aside, allocate
-bekräfta	to confirm
-beskriva	to describe
-besluta	to decide
-bestå	to consist of
-beställa	to order
-betyda	to mean
-boka	to book, reserve
-dela	to share, divide
-delta	to participate
-diskutera	to discuss
-erbjuda	to offer
-erfara	to experience
-förklara	to explain
-förändra	to change, alter
-försöka	to try, attempt
-förstå	to understand
-försvinna	to disappear
-förvänta	to expect
-godkänna	to approve, accept
-jämföra	to compare
-kämpa	to fight, struggle
-känna	to feel, know (a person)
-koncentrera	to concentrate
-kontrollera	to check, control
-kräva	to demand, require
-lyckas	to succeed
-lämna	to leave
-lösa	to solve
-motsvara	to correspond to
-mötas	to meet (each other)
-nå	to reach
-nämna	to mention
-ordna	to arrange, organize
-påverka	to influence, affect
-planera	to plan
-rekommendera	to recommend
-reparera	to repair
-sakna	to miss, lack
-samla	to collect, gather
-samarbeta	to cooperate, collaborate
-skapa	to create
-skilja	to separate, distinguish
-skydda	to protect
-spara	to save
-stödja	to support
-söka	to search, apply for
-tillåta	to allow, permit
-undvika	to avoid
-undersöka	to investigate, examine
-utveckla	to develop
-välja	to choose, select
-ändra	to change
-anmäla	to report, register
-anteckna	to take notes
-anstränga	to strain, exert
-avse	to intend, refer to
-avslöja	to reveal, disclose
-begära	to request, demand
-begränsa	to limit, restrict
-behandla	to treat, process
-behålla	to keep, retain
-bekymra	to worry, concern
-belasta	to burden, load
-bero	to depend on
-bevara	to preserve
-bevisa	to prove
-bidra	to contribute
-blanda	to mix
-drabba	to affect, strike
-dröja	to delay, take time
-dölja	to hide, conceal
-ersätta	to replace, compensate
-fastställa	to establish, determine
-förbjuda	to forbid, prohibit
-förbereda	to prepare
-fördröja	to delay
-föreslå	to suggest, propose
-förhandla	to negotiate
-förhindra	to prevent
-förlora	to lose
-förmå	to induce, be able to
-förnya	to renew
-försäkra	to insure, assure
-försvara	to defend
-förvandla	to transform
-genomföra	to implement, carry out
-hämta	to fetch, pick up
-hända	to happen, occur
-hänvisa	to refer, direct
-höja	to raise, increase
-innebära	to involve, imply
-innehålla	to contain, hold
-investera	to invest
-kartlägga	to map out, survey
-kränka	to violate, offend
-leda	to lead
-minska	to reduce, decrease
-misstänka	to suspect
-misslyckas	to fail
-orsaka	to cause
-påstå	to claim, assert
-pågå	to be ongoing, continue
-påminna	to remind
-sänka	to lower, reduce
-tillbringa	to spend (time)
-tillhöra	to belong to
-tillverka	to manufacture, produce
-tvinga	to force, compel
-uppfylla	to fulfill, satisfy
-uppnå	to achieve, reach
-upptäcka	to discover
-uttrycka	to express
-utnyttja	to utilize, exploit
-värdera	to evaluate, rate
-växa	to grow
-övertyga	to convince, persuade
-öka	to increase
-anta	to assume, accept
-avstå	to refrain, abstain
-belysa	to highlight, illuminate
-bedöma	to judge, assess
-bemöta	to respond to, treat
-bevilja	to grant, approve
-debattera	to debate
-dra	to pull, draw
-döma	to judge, sentence
-engagera	to engage, involve
-framhålla	to emphasize, stress
-framstå	to appear, seem
-fungera	to function, work
-förvalta	to manage, administer
-granska	to review, inspect
-gälla	to apply, be valid
-hantera	to handle, deal with
-hävda	to claim, assert
-häva	to lift, rescind
-inleda	to initiate, begin
-inrätta	to set up, establish
-inse	to realize
-intressera	to interest
-kritisera	to criticize
-motivera	to motivate, justify
-notera	to note, notice
-orientera	to orient, inform
-prioritera	to prioritize
-publicera	to publish
-redovisa	to report, present
-reflektera	to reflect
-registrera	to register
-respektera	to respect
-satsa	to invest, bet
-skada	to damage, injure
-sköta	to manage, care for
-stärka	to strengthen
-styra	to steer, govern
-säkra	to secure, ensure
-tillämpa	to apply (a method/rule)
-tolka	to interpret
-uppfatta	to perceive, grasp
-upphöra	to cease, end
-uppmana	to urge, call upon
-upprätta	to draw up, establish
-uppstå	to arise, originate
-utbilda	to educate, train
-utföra	to perform, carry out
-utgöra	to constitute, form
-utse	to appoint, choose
-utvecklas	to evolve, develop
-värna	to protect, guard
-vägra	to refuse
-översätta	to translate
-överväga	to consider, weigh
-ett ansvar	responsibility
-en ansökan	application
-en anställning	employment
-en arbetsplats	workplace
-ett avtal	agreement, contract
-ett beslut	decision
-en chef	manager, boss
-en ekonomi	economy, finances
-en erfarenhet	experience
-ett företag	company, business
-ett förslag	proposal, suggestion
-ett samhälle	society
-en styrelse	board of directors
-en utbildning	education
-en utveckling	development
-ett yrke	profession, occupation
-en lön	salary, wage
-ett möte	meeting
-ett projekt	project
-ett resultat	result
-en regel	rule
-en lag	law
-en skatt	tax
-en tjänst	service, job post
-en utmaning	challenge
-en allmänhet	general public
-en anställd	employee
-en avdelning	department, division
-en avgift	fee, charge; maintenance fee
-en fastighet	real estate, property
-en forskning	research
-ett framsteg	progress
-en försäkring	insurance
-en handling	action, document
-en invånare	resident, inhabitant
-en konsument	consumer
-en ledning	management, leadership
-en personal	staff, personnel
-en rättighet	right (legal/moral)
-en skyldighet	duty, obligation
-en sjukvård	healthcare
-ett stöd	support, grant
-en tillgång	asset, access
-en tillväxt	growth
-en utgift	expense
-en verksamhet	activity, operations
-en vinst	profit, win
-en åtgärd	measure, action
-en överenskommelse	agreement
-ett utbud	supply, range
-en efterfrågan	demand
-en jämställdhet	gender equality
-en rättvisa	justice, fairness
-en trygghet	security, safety
-en invandring	immigration
-en befolkning	population
-en myndighet	government authority
-ett samarbete	cooperation
-en resurs	resource
-en konsumtion	consumption
-en demokrati	democracy
-ett val	election, choice
-en politiker	politician
-ett parti	political party
-en regering	government
-en riksdag	parliament
-en kommun	municipality
-en region	region, county
-en skattelag	tax law
-en budget	budget
-en marknad	market
-en industri	industry
-en handel	trade, commerce
-en export	export
-en import	import
-en konkurrens	competition
-en kund	customer, client
-en leverantör	supplier
-en kollega	colleague
-en fackförening	trade union
-en anledning	reason
-en bostad	housing, residence
-en framtid	future
-en hälsa	health
-ett klimat	climate
-en kultur	culture
-en miljö	environment
-en möjlighet	opportunity, possibility
-en natur	nature
-ett område	area, region
-ett problem	problem
-en säkerhet	safety, security
-en situation	situation
-en skillnad	difference
-en sjukdom	illness, disease
-en trafik	traffic
-en vana	habit
-en vetenskap	science
-en åsikt	opinion
-ett ändamål	purpose
-en betydelse	meaning, significance
-en del	part, portion
-en effekt	effect, impact
-ett faktum	fact
-en fördel	advantage
-en nackdel	disadvantage
-en grund	foundation, basis
-en händelse	event, incident
-en idé	idea
-ett innehåll	content
-en känsla	feeling, emotion
-en kunskap	knowledge
-en lösning	solution
-ett mål	goal, target
-en mängd	amount, quantity
-en orsak	cause, reason
-en plan	plan
-en risk	risk
-en sanning	truth
-ett syfte	purpose, aim
-ett tillstånd	condition, permit
-en verklighet	reality
-ett värde	value, worth
-en anpassning	adaptation
-en anteckning	note
-en användning	usage, application
-ett avstånd	distance
-ett begrepp	concept
-en behandling	treatment
-ett behov	need
-ett belopp	amount of money
-ett beroende	addiction, dependency
-en beskrivning	description
-en förbindelse	connection, link
-en förändring	change
-en hänsyn	consideration, respect
-en jämförelse	comparison
-en källa	source
-en kvalitet	quality
-en mätning	measurement
-en motsats	opposite
-en ordning	order, neatness
-en påverkan	impact, influence
-ett samband	relation, connection
-ett sammanhang	context
-en satsning	initiative, investment
-en slutsats	conclusion
-en undersökning	survey, investigation
-en utrustning	equipment
-ett yttrande	statement, opinion
-en attityd	attitude
-en bakgrund	background
-ett betyg	grade, rating
-en brist	lack, shortage
-en detalj	detail
-en diskussion	discussion
-ett fokus	focus
-en framgång	success
-en frihet	freedom
-en gemenskap	community, fellowship
-en gräns	border, limit; limit, threshold
-en grundval	foundation, basis
-ett hinder	obstacle, barrier
-ett hushåll	household
-ett inflytande	influence
-en information	information
-en insats	effort, contribution
-ett intresse	interest
-ett krav	requirement, demand
-en kris	crisis
-en kritik	criticism
-en livsstil	lifestyle
-en metod	method
-ett mönster	pattern
-en nivå	level
-en princip	principle
-en process	process
-en reaktion	reaction
-en roll	role
-en sammanfattning	summary
-ett skäl	reason, motive
-en struktur	structure
-ett svar	answer, response
-ett system	system
-en teknik	technology, technique
-en tendens	tendency, trend
-en teori	theory
-en tidpunkt	point in time
-ett tillfälle	occasion, opportunity
-en tradition	tradition
-en uppgift	task, data
-en upplevelse	experience
-ett ursprung	origin
-ett uttryck	expression
-en yta	surface, area
-en ålder	age
-ett ämne	subject, topic, substance
-en avsikt	intention
-ett bakslag	setback
-en belastning	load, strain
-aktuell	current, relevant
-allmän	general, public
-ansvarig	responsible
-beroende	dependent
-behövlig	necessary
-bestämd	determined, specific
-bred	broad, wide
-tydlig	clear, distinct
-enkel	simple, easy
-ensam	lonely, alone
-farlig	dangerous
-fysisk	physical
-försiktig	cautious, careful
-gemensam	common, shared
-gravid	pregnant
-hel	whole, entire
-hälsosam	healthy
-huvudsaklig	main, principal
-intressant	interesting
-känslig	sensitive
-klar	clear, ready
-komplett	complete
-kraftig	powerful, heavy, sturdy
-likadan	identical, same
-lokal	local
-märklig	strange, remarkable
-möjlig	possible
-motsatt	opposite
-muntlig	oral, verbal
-naturlig	natural
-nödvändig	necessary, essential
-nöjd	satisfied, pleased
-närvarande	present, attending
-obekväm	uncomfortable
-olika	different, various
-osäker	uncertain, insecure
-personlig	personal
-plötslig	sudden
-positiv	positive
-praktisk	practical
-psykisk	mental, psychological
-ren	clean, pure
-sällsynt	rare
-säker	safe, sure
-sannolik	probable, likely
-senast	recent, latest
-självständig	independent
-skriftlig	written
-snabb	fast, quick
-spännande	exciting
-stark	strong
-svår	difficult, hard
-särskild	special, particular
-tidig	early
-tillräcklig	sufficient, enough
-tom	empty
-trygg	secure, safe
-tung	heavy
-typisk	typical
-tyst	quiet, silent
-underbar	wonderful
-unik	unique
-utländsk	foreign
-vanlig	common, usual
-viktig	important
-värdefull	valuable
-allvarlig	serious
-annorlunda	different
-begränsad	limited, restricted
-betydande	significant, considerable
-definitiv	definitive, final
-ekonomisk	economic, financial
-enhetlig	uniform, standardized
-faktisk	actual, factual
-frivillig	voluntary
-grundläggande	fundamental, basic
-gällande	valid, current
-hållbar	sustainable, durable
-hänsynsfull	considerate
-laglig	legal, lawful
-lämplig	suitable, appropriate
-motsvarande	corresponding; equivalent
-medveten	aware, conscious
-märkbar	noticeable
-noggrann	meticulous, careful
-nyttig	useful, healthy
-officiell	official
-olaglig	illegal
-pålitlig	reliable, trustworthy
-rimlig	reasonable, fair
-uppenbar	obvious, apparent
-väsentlig	essential, vital
-aktiv	active
-akut	acute, urgent
-avancerad	advanced
-beviljad	granted, approved
-central	central, key
-direkt	direct
-djup	deep
-effektiv	effective, efficient
-exakt	exact, precise
-enorm	enormous, huge
-falsk	false, fake
-fast	fixed, solid
-flexibel	flexible
-formell	formal
-framtida	future (attributive)
-färsk	fresh
-grundlig	thorough
-hemlig	secret
-historisk	historical
-idealisk	ideal
-indirekt	indirect
-internationell	international
-komplex	complex
-konkret	concrete, specific
-kritisk	critical
-långsiktig	long-term
-kortsiktig	short-term
-logisk	logical
-måttlig	moderate
-negativ	negative
-neutral	neutral
-normal	normal, standard
-objektiv	objective
-okänd	unknown
-osynlig	invisible
-passande	suitable, fitting
-passiv	passive
-perfekt	perfect
-permanent	permanent
-populär	popular
-preliminär	preliminary
-primär	primary
-relevant	relevant
-relativ	relative
-sann	true
-sen	late
-skadlig	harmful
-stabil	stable
-ständig	constant, continuous
-synlig	visible
-tillfällig	temporary, accidental
-traditionell	traditional
-upptagen	busy, occupied
-uttrycklig	explicit, express
-viss	certain, specific
-ytlig	superficial
-öppen	open, transparent
-ömsesidig	mutual
-överdriven	exaggerated
-överraskande	surprising
-oberoende	independent
-påtaglig	tangible, obvious
-storslagen	grand, magnificent
-svag	weak
-tillåtlig	permissible
-utbredd	widespread
-aldrig	never
-alltid	always
-annars	otherwise
-antagligen	probably
-därför	therefore, that's why
-däremot	on the other hand
-egentligen	actually, really
-endast	only, solely
-fortfarande	still
-försiktigt	carefully
-ganska	quite, rather
-gärna	gladly, willingly
-genast	immediately, at once
-ibland	sometimes
-i stället	instead
-ju	as you know, after all
-kanske	maybe, perhaps
-knappast	hardly, scarcely
-länge	for a long time
-nästan	almost, nearly
-ofta	often
-också	also, too
-plötsligt	suddenly
-precis	precisely, exactly
-redan	already
-särskilt	especially, particularly
-snart	soon
-tyvärr	unfortunately
-absolut	absolutely
-följaktligen	consequently
-förresten	by the way
-hittills	so far, hitherto
-hursomhelst	anyhow, anyway
-likaså	likewise
-nämligen	namely, that is to say
-samtidigt	simultaneously, at the same time
-sannolikt	likely, probably
-slutligen	finally, in conclusion
-således	thus, therefore
-alltför	far too, overly
-annanstans	elsewhere
-därmed	thereby, thus
-dessutom	furthermore, in addition
-dock	however, yet
-drygt	slightly more than
-eventuellt	possibly, potentially
-framför allt	above all
-fortsättningsvis	in the future, moving forward
-förgäves	in vain
-förmodligen	presumably, likely
-först och främst	first and foremost
-helt enkelt	simply
-huvudsakligen	mainly, primarily
-i alla fall	in any case
-i princip	in principle
-i själva verket	in fact, as a matter of fact
-ingalunda	by no means
-inte heller	neither, nor
-inte minst	not least
-kort sagt	in short
-möjligen	possibly
-naturligtvis	naturally, of course
-nyligen	recently, lately
-nästan aldrig	hardly ever
-oavsett	regardless of
-oftast	mostly, usually
-omgående	immediately, promptly
-ordentligt	properly, thoroughly
-personligen	personally
-sakta	slowly
-självklart	obviously, naturally
-sällan	seldom, rarely
-tidigare	earlier, previously
-tills vidare	for the time being, until further notice
-trots allt	after all, despite everything
-tydligen	apparently, evidently
-ungefär	approximately, about
-uppenbarligen	obviously, clearly
-ursprungligen	originally
-uttryckligen	explicitly
-vanligtvis	usually, normally
-verkligen	really, truly
-ytterst	extremely, ultimately
-ytterligare	additionally, further
-ännu	even, yet
-ändå	anyway, still
-överhuvudtaget	at all, overall
-övervägande	predominantly
-återigen	once again
-däribland	including among them
-fastän	although, even though
-eftersom	since, because
-ifall	in case, if
-om	if, whether
-medan	while, whereas
-tills	until
-trots	despite, in spite of
-genom	through, by means of
-enligt	according to
-bland	among
-innan	before (conjunction)
-sedan	since, after, then
-utan	without, but rather
-förutom	besides, except for
-angående	regarding, concerning
-beträffande	concerning, regarding
-bortsett från	apart from, setting aside
-då	when, since, as
-därför att	because
-efter	after, according to
-från	from
-för att	in order to
-före	before (preposition)
-gentemot	towards, against
-hos	with, at the house of
-i enlighet med	in accordance with
-i samband med	in connection with
-i stället för	instead of
-inför	ahead of, facing
-inom	within
-intill	next to, beside
-kring	around, regarding
-liksom	as well as, like
-med anledning av	on the occasion of, due to
-med tanke på	considering, in view of
-mellan	between
-mot	towards, against
-omkring	around, approximately
-på grund av	because of, due to
-samt	as well as, and
-samtidigt som	while at the same time
-så att	so that
-så länge	as long as
-till följd av	as a result of
-trots att	even though
-under	during, under
-utan att	without (doing something)
-utöver	in addition to, beyond
-via	via, by way of
-åt	for, to
-hålla med	to agree
-komma på	to think of, remember
-se ut	to look like, appear
-stänga av	to turn off, switch off
-sätta på	to turn on, switch on
-ta hand om	to take care of
-ta reda på	to find out, ascertain
-vara tvungen	to be forced/obligated
-vänja sig	to get used to
-ge upp	to give up
-göra i ordning	to prepare, get ready
-hälsa på	to visit
-känna igen	to recognize
-lägga till	to add
-passa på	to take the opportunity
-se fram emot	to look forward to
-skriva under	to sign
-ställa in	to cancel, adjust
-ta emot	to receive, accept
-tänka efter	to think twice, reflect
-bero på	depends on
-bära sig åt	to behave, act
-dyka upp	to show up, turn up
-falla i glömska	to fall into oblivion
-få tag på	to get hold of
-föra vidare	to pass along
-hålla på med	to be busy with
-hålla tummarna	to keep fingers crossed
-komma överens	to reach an agreement
-lägga märke till	to pay attention to, notice
-ställa krav	to make demands
-ställa frågor	to ask questions
-ta hänsyn till	to take into consideration
-ta initiativ	to take initiative
-ta plats	to take place, take room
-ta ställning	to take a stance
-vara beredd på	to be prepared for
-vara medveten om	to be aware of
-visa sig	to turn out, prove to be
-än så länge	for now, so far
-anlända till	to arrive at
-bestämma sig för	to decide on
-bära med sig	to bring along, carry
-dra nytta av	to benefit from, exploit
-föra över	to transfer
-gå med på	to consent to, agree to
-gå igenom	to go through, experience
-hålla fast vid	to stick to, adhere to
-hålla sig till	to stick to, keep to
-höra av sig	to get in touch
-komma fram till	to arrive at (a conclusion)
-lägga ner	to shut down, invest (time)
-lita på	to trust, rely on
-plocka fram	to bring out, produce
-råka ut för	to suffer, meet with
-se till	to ensure, make sure
-sätta igång	to set in motion, start
-ta avstånd från	to distance oneself from
-ta för givet	to take for granted
-utgå från	to assume, base on
-ett avfall	waste, garbage
-en återvinning	recycling
-ett utsläpp	emissions, discharge
-en förorening	pollution
-en energi	energy
-en el	electricity
-ett bränsle	fuel
-en klimatförändring	climate change
-ett ekosystem	ecosystem
-en hållbarhet	sustainability
-en sopsortering	waste sorting
-en solenergi	solar energy
-en vindkraft	wind power
-ett skyddat område	protected area
-en naturtillgång	natural resource
-en smitta	infection, contagion
-ett recept	prescription, recipe
-en medicin	medicine, medication
-ett symtom	symptom
-en diagnos	diagnosis
-en vårdcentral	health center, clinic
-ett sjukhus	hospital
-en läkare	doctor, physician
-en sjuksköterska	nurse
-en patient	patient
-en akutmottagning	emergency room
-en skada	injury, damage
-en smärta	pain, ache
-en terapi	therapy
-en psykisk hälsa	mental health
-ett välmående	well-being
-en motion	exercise, physical activity
-en kost	diet, nutrition
-en bostadsrätt	tenant-owned apartment
-en hyresrätt	rented apartment
-en villa	single-family house
-en hyra	rent
-ett lån	loan
-en ränta	interest rate
-en amortering	mortgage payment / amortization
-en granne	neighbor
-en renovering	renovation
-ett underhåll	maintenance
-en fastighetsägare	property owner
-ett kontrakt	lease contract
-en uppsägning	termination, notice
-en flytt	move, relocation
-en städning	cleaning
-ett förråd	storage room
-en tvättstuga	shared laundry room
-ett gemensamhetsutrymme	communal area
-en trädgård	garden
-en balkong	balcony
-en mäklare	real estate agent
-en visning	property viewing
-en budgivning	bidding process
-en fastighetsskatt	property tax
-en uppvärmning	heating
-en isolering	insulation
-en forskare	researcher, scientist
-ett universitet	university
-en högskola	college, higher education institution
-en examen	degree, graduation
-en kurs	course
-en föreläsning	lecture
-ett seminarium	seminar
-ett studiemedel	student financial aid
-en avhandling	thesis, dissertation
-en litteratur	literature
-en pedagogik	pedagogy, teaching method
-en dator	computer
-ett nätverk	network
-en mjukvara	software
-en hårdvara	hardware
-en databas	database
-en algoritm	algorithm
-en applikation	application, app
-ett användargränssnitt	user interface
-en digitalisering	digitalization
-en skärm	screen
-en molntjänst	cloud service
-en uppkoppling	internet connection
-en tidning	newspaper, magazine
-en journalistik	journalism
-en nyhet	news item
-en sändning	broadcast
-en artikel	article
-ett pressmeddelande	press release
-en källkritik	critical evaluation of sources
-en yttrandefrihet	freedom of speech
-en tryckfrihet	freedom of the press
-en reklam	advertisement, advertising
-en målgrupp	target audience
-ett budskap	message
-en kommunikation	communication
-en podd	podcast
-en redaktör	editor
-en publicering	publishing
-en granskning	investigative review
-en student	student
-en professor	professor
-ett klassrum	classroom
-en tenta	exam, test
-en läroplan	curriculum
-en skärmtid	screen time
-ett lösenord	password
-en säkerhetskopia	backup
-en länk	link, hyperlink
-en webbplats	website
-ett konto	bank account
-ett sparkonto	savings account
-en investering	investment
-en aktie	stock, share
-en fond	mutual fund
-en deklaration	tax return
-en inkomst	income
-en faktura	invoice
-ett kvitto	receipt
-en skuld	debt
-en kredit	credit
-en konkurs	bankruptcy
-en valuta	currency
-en växelkurs	exchange rate
-en inflation	inflation
-en sänkning	cut, reduction
-en domstol	court of law
-en dom	verdict, sentence
-en åklagare	prosecutor
-en advokat	lawyer, defense attorney
-ett vittne	witness
-ett brott	crime, offense
-ett straff	punishment, penalty
-en polis	police
-en utredning	investigation
-en lagstiftning	legislation
-en paragraf	section/paragraph in law
-ett skadestånd	compensation, damages
-ett myndighetsbeslut	official decision
-ett överklagande	legal appeal
-en blankett	form, application document
-ett intyg	certificate, attestation
-en handläggare	caseworker, administrator
-en handläggning	processing of a case
-en legitimation	ID card, qualification
-ett pass	passport
-ett personnummer	personal identity number
-en stämpel	stamp, seal
-en fullmakt	power of attorney
-en registrering	registration
-en taxering	tax assessment
-en tull	customs
-böter (pl.)	fine, penalty fee
-en stämning	summons, lawsuit; atmosphere, mood
-ett brottmål	criminal case
-ett tvistemål	civil dispute
-en riksbank	central bank
-en styrränta	policy rate
-en utdelning	dividend
-ett amorteringskrav	mortgage repayment requirement
-en inställning	attitude, mindset
-ett argument	argument
-en invändning	objection
-ett påstående	assertion, statement
-en kompromiss	compromise
-en enighet	consensus, agreement
-en oenighet	disagreement
-ett beröm	praise, compliment
-en tvekan	hesitation, doubt
-en osäkerhet	uncertainty
-en glädje	joy, happiness
-en sorg	grief, sorrow
-en ilska	anger, rage
-en rädsla	fear, dread
-en oro	worry, anxiety
-ett hopp	hope
-en längtan	longing, yearning
-en besvikelse	disappointment
-en stolthet	pride
-en skam	shame
-en avundsjuka	jealousy, envy
-en sympati	sympathy
-en empati	empathy
-en lättnad	relief
-en nyfikenhet	curiosity
-ett samtal	conversation, call
-en dialog	dialogue
-en presentation	presentation
-en redogörelse	account, statement
-ett meddelande	message, notification
-ett rykte	rumor, reputation
-ett tonfall	tone of voice
-ett kroppsspråk	body language
-ett missförstånd	misunderstanding
-ett förtroende	trust, confidence
-en misstänksamhet	suspicion
-en respekt	respect
-en ärlighet	honesty
-en vänskap	friendship
-en kärlek	love
-en konflikt	conflict
-en tillit	trust, reliance
-en misstro	distrust
-en häpnad	amazement, astonishment
-en beundran	admiration
-en hänsynslöshet	ruthlessness
-en vilja	will, desire
-en lystnad	craving
-en medkänsla	compassion
-en tidsperiod	time period
-en epok	era, epoch
-ett sekel	century
-ett årtionde	decade
-en dåtid	past
-en nutid	present time
-en tidsgräns	deadline
-en varaktighet	duration
-ett antal	number, count
-en volym	volume
-en vikt	weight, importance
-ett mått	measure, dimension
-en längd	length, height
-en bredd	width
-ett djup	depth
-en höjd	height, altitude
-en hastighet	speed, velocity
-en temperatur	temperature
-en procent	percent
-en andel	share, proportion
-en majoritet	majority
-en minoritet	minority
-ett genomsnitt	average
-en ökning	increase, growth
-en minskning	decrease, reduction
-en kapacitet	capacity
-en grad	degree, extent
-en omfattning	scope, extent
-en utsträckning	extent, degree
-en skala	scale
-en kvantitet	quantity
-en enhet	unit, entity
-en beräkning	calculation, estimate
-en uppskattning	estimate, evaluation
-en tidtabell	timetable, schedule
-ett schema	schedule, timetable
-en försening	delay
-en minut	minute
-en timme	hour
-ett dygn	24-hour period
-en månad	month
-ett år	year
-en millimeter	millimeter
-en centimeter	centimeter
-en meter	meter
-en kilometer	kilometer
-ett gram	gram
-ett kilo	kilogram
-en liter	liter
+anlända	to arrive  ·  Tåget anländer till Stockholm klockan åtta. (The train arrives in Stockholm at eight o'clock.)
+anpassa	to adapt, adjust  ·  Vi måste anpassa planen efter vädret. (We have to adapt the plan to the weather.)
+ansöka	to apply  ·  Hon ska ansöka om ett nytt jobb. (She is going to apply for a new job.)
+använda	to use  ·  Får jag använda din dator? (May I use your computer?)
+avbryta	to interrupt, cancel  ·  Förlåt att jag avbryter dig. (Sorry for interrupting you.)
+avböja	to decline, refuse  ·  Han avböjde inbjudan till festen. (He declined the invitation to the party.)
+avsluta	to finish, complete  ·  Vi avslutar mötet klockan tre. (We'll finish the meeting at three.)
+avsätta	to set aside, allocate  ·  Jag avsätter en timme varje dag till svenska. (I set aside an hour every day for Swedish.)
+bekräfta	to confirm  ·  Kan du bekräfta din bokning? (Can you confirm your booking?)
+beskriva	to describe  ·  Kan du beskriva hur mannen såg ut? (Can you describe what the man looked like?)
+besluta	to decide  ·  Styrelsen beslutade att sänka priserna. (The board decided to lower the prices.)
+bestå	to consist of  ·  Kursen består av tio lektioner. (The course consists of ten lessons.)
+beställa	to order  ·  Jag vill beställa en kaffe, tack. (I'd like to order a coffee, please.)
+betyda	to mean  ·  Vad betyder det här ordet? (What does this word mean?)
+boka	to book, reserve  ·  Jag har bokat ett bord för två. (I have booked a table for two.)
+dela	to share, divide  ·  Vi delar på notan. (We're splitting the bill.)
+delta	to participate  ·  Alla får delta i tävlingen. (Everyone may take part in the competition.)
+diskutera	to discuss  ·  Vi diskuterade problemet i en timme. (We discussed the problem for an hour.)
+erbjuda	to offer  ·  Får jag erbjuda dig något att dricka? (May I offer you something to drink?)
+erfara	to experience  ·  Hon har erfarit mycket under sina resor. (She has experienced a lot during her travels.)
+förklara	to explain  ·  Kan du förklara det en gång till? (Can you explain it once more?)
+förändra	to change, alter  ·  Flytten förändrade hela mitt liv. (The move changed my whole life.)
+försöka	to try, attempt  ·  Jag ska försöka komma i tid. (I'll try to be on time.)
+förstå	to understand  ·  Jag förstår inte vad du menar. (I don't understand what you mean.)
+försvinna	to disappear  ·  Min nyckel har försvunnit igen. (My key has disappeared again.)
+förvänta	to expect  ·  Vi förväntar oss många gäster i kväll. (We are expecting many guests tonight.)
+godkänna	to approve, accept  ·  Banken godkände vårt lån. (The bank approved our loan.)
+jämföra	to compare  ·  Det är svårt att jämföra äpplen och päron. (It's hard to compare apples and oranges.)
+kämpa	to fight, struggle  ·  Han fick kämpa för att klara examen. (He had to struggle to pass the exam.)
+känna	to feel, know (a person)  ·  Jag känner mig trött i dag. (I feel tired today.)
+koncentrera	to concentrate  ·  Jag kan inte koncentrera mig när det är stökigt. (I can't concentrate when it's noisy.)
+kontrollera	to check, control  ·  Kontrollera att dörren är låst. (Check that the door is locked.)
+kräva	to demand, require  ·  Jobbet kräver mycket tålamod. (The job requires a lot of patience.)
+lyckas	to succeed  ·  Till slut lyckades hon hitta en lägenhet. (In the end she managed to find an apartment.)
+lämna	to leave  ·  Glöm inte att lämna nyckeln i receptionen. (Don't forget to leave the key at reception.)
+lösa	to solve  ·  Vi löste problemet tillsammans. (We solved the problem together.)
+motsvara	to correspond to  ·  Lönen motsvarar inte mitt ansvar. (The salary doesn't correspond to my responsibility.)
+mötas	to meet (each other)  ·  Vi möts utanför bion klockan sju. (We'll meet outside the cinema at seven.)
+nå	to reach  ·  Du når mig på telefon hela dagen. (You can reach me by phone all day.)
+nämna	to mention  ·  Hon nämnde att hon skulle flytta. (She mentioned that she was going to move.)
+ordna	to arrange, organize  ·  Vi ordnar en fest på lördag. (We're organizing a party on Saturday.)
+påverka	to influence, affect  ·  Vädret påverkar mitt humör. (The weather affects my mood.)
+planera	to plan  ·  Vi planerar att resa till Göteborg i sommar. (We're planning to travel to Gothenburg this summer.)
+rekommendera	to recommend  ·  Kan du rekommendera en bra restaurang? (Can you recommend a good restaurant?)
+reparera	to repair  ·  Han reparerade cykeln själv. (He repaired the bike himself.)
+sakna	to miss, lack  ·  Jag saknar min familj. (I miss my family.)
+samla	to collect, gather  ·  Barnen samlar på stenar. (The children collect stones.)
+samarbeta	to cooperate, collaborate  ·  De två skolorna samarbetar i projektet. (The two schools cooperate on the project.)
+skapa	to create  ·  Hon skapade en egen hemsida. (She created her own website.)
+skilja	to separate, distinguish  ·  Det är svårt att skilja tvillingarna åt. (It's hard to tell the twins apart.)
+skydda	to protect  ·  Solkräm skyddar huden mot solen. (Sunscreen protects the skin from the sun.)
+spara	to save  ·  Vi sparar pengar till en resa. (We're saving money for a trip.)
+stödja	to support  ·  Mina föräldrar stöder mig alltid. (My parents always support me.)
+söka	to search, apply for  ·  Jag söker efter mina glasögon. (I'm looking for my glasses.)
+tillåta	to allow, permit  ·  Det är inte tillåtet att röka här. (Smoking is not allowed here.)
+undvika	to avoid  ·  Försök undvika socker på kvällen. (Try to avoid sugar in the evening.)
+undersöka	to investigate, examine  ·  Läkaren undersökte mitt knä. (The doctor examined my knee.)
+utveckla	to develop  ·  Företaget utvecklar en ny app. (The company is developing a new app.)
+välja	to choose, select  ·  Du får välja vilken film vi ser. (You get to choose which movie we watch.)
+ändra	to change  ·  Vi har ändrat tiden för mötet. (We have changed the time of the meeting.)
+anmäla	to report, register  ·  Hon anmälde stölden till polisen. (She reported the theft to the police.)
+anteckna	to take notes  ·  Studenterna antecknade allt läraren sa. (The students wrote down everything the teacher said.)
+anstränga	to strain, exert  ·  Du behöver inte anstränga dig så mycket. (You don't need to strain yourself so much.)
+avse	to intend, refer to  ·  Vilken dag avser du? (Which day are you referring to?)
+avslöja	to reveal, disclose  ·  Han avslöjade hemligheten för alla. (He revealed the secret to everyone.)
+begära	to request, demand  ·  Jag begärde att få prata med chefen. (I asked to speak to the manager.)
+begränsa	to limit, restrict  ·  Vi måste begränsa kostnaderna. (We have to limit the costs.)
+behandla	to treat, process  ·  Din ansökan behandlas just nu. (Your application is being processed right now.)
+behålla	to keep, retain  ·  Du får behålla växeln. (You can keep the change.)
+bekymra	to worry, concern  ·  Det bekymrar mig att han inte svarar. (It worries me that he isn't answering.)
+belasta	to burden, load  ·  Jag vill inte belasta dig med mina problem. (I don't want to burden you with my problems.)
+bero	to depend on  ·  Det beror på vädret. (It depends on the weather.)
+bevara	to preserve  ·  Vi måste bevara skogen för framtiden. (We must preserve the forest for the future.)
+bevisa	to prove  ·  Kan du bevisa att du har rätt? (Can you prove that you're right?)
+bidra	to contribute  ·  Alla bidrog med något till middagen. (Everyone contributed something to the dinner.)
+blanda	to mix  ·  Blanda mjölet med sockret. (Mix the flour with the sugar.)
+drabba	to affect, strike  ·  Stormen drabbade hela kusten. (The storm hit the whole coast.)
+dröja	to delay, take time  ·  Det dröjer en vecka innan paketet kommer. (It will take a week before the parcel arrives.)
+dölja	to hide, conceal  ·  Hon försökte dölja att hon var ledsen. (She tried to hide that she was sad.)
+ersätta	to replace, compensate  ·  Försäkringen ersätter skadan. (The insurance covers the damage.)
+fastställa	to establish, determine  ·  Polisen har fastställt dödsorsaken. (The police have established the cause of death.)
+förbjuda	to forbid, prohibit  ·  Det är förbjudet att parkera här. (Parking is prohibited here.)
+förbereda	to prepare  ·  Jag förbereder mig inför intervjun. (I'm preparing for the interview.)
+fördröja	to delay  ·  Snön fördröjde alla flyg. (The snow delayed all the flights.)
+föreslå	to suggest, propose  ·  Jag föreslår att vi tar en paus. (I suggest we take a break.)
+förhandla	to negotiate  ·  Facket förhandlar om högre löner. (The union is negotiating higher wages.)
+förhindra	to prevent  ·  Vaccinet förhindrar sjukdomen. (The vaccine prevents the disease.)
+förlora	to lose  ·  Vårt lag förlorade matchen. (Our team lost the match.)
+förmå	to induce, be able to  ·  Jag kunde inte förmå mig att säga nej. (I couldn't bring myself to say no.)
+förnya	to renew  ·  Jag måste förnya mitt pass. (I have to renew my passport.)
+försäkra	to insure, assure  ·  Jag kan försäkra dig om att allt är bra. (I can assure you that everything is fine.)
+försvara	to defend  ·  Hon försvarade sin vän. (She defended her friend.)
+förvandla	to transform  ·  De förvandlade garaget till ett kontor. (They turned the garage into an office.)
+genomföra	to implement, carry out  ·  Kommunen genomförde planen på ett år. (The municipality carried out the plan in one year.)
+hämta	to fetch, pick up  ·  Kan du hämta barnen på förskolan? (Can you pick up the kids from preschool?)
+hända	to happen, occur  ·  Vad hände i går? (What happened yesterday?)
+hänvisa	to refer, direct  ·  Receptionen hänvisade mig till andra våningen. (Reception directed me to the second floor.)
+höja	to raise, increase  ·  Hyresvärden vill höja hyran. (The landlord wants to raise the rent.)
+innebära	to involve, imply  ·  Jobbet innebär mycket resande. (The job involves a lot of travel.)
+innehålla	to contain, hold  ·  Den här soppan innehåller nötter. (This soup contains nuts.)
+investera	to invest  ·  Han investerade alla sina pengar i aktier. (He invested all his money in stocks.)
+kartlägga	to map out, survey  ·  Forskarna kartlägger fåglarnas flyttvägar. (The researchers are mapping the birds' migration routes.)
+kränka	to violate, offend  ·  Hans kommentar kränkte henne. (His comment offended her.)
+leda	to lead  ·  Hon leder ett team på tio personer. (She leads a team of ten people.)
+minska	to reduce, decrease  ·  Vi försöker minska vårt matsvinn. (We're trying to reduce our food waste.)
+misstänka	to suspect  ·  Polisen misstänker grannen. (The police suspect the neighbour.)
+misslyckas	to fail  ·  Försöket misslyckades. (The attempt failed.)
+orsaka	to cause  ·  Vad orsakade olyckan? (What caused the accident?)
+påstå	to claim, assert  ·  Han påstår att han inte var där. (He claims he wasn't there.)
+pågå	to be ongoing, continue  ·  Bygget pågår hela sommaren. (The construction goes on all summer.)
+påminna	to remind  ·  Påminn mig att köpa mjölk. (Remind me to buy milk.)
+sänka	to lower, reduce  ·  Butiken har sänkt priserna. (The shop has lowered its prices.)
+tillbringa	to spend (time)  ·  Vi tillbringade julen hos mormor. (We spent Christmas at grandma's.)
+tillhöra	to belong to  ·  Den här väskan tillhör min syster. (This bag belongs to my sister.)
+tillverka	to manufacture, produce  ·  Fabriken tillverkar bildelar. (The factory makes car parts.)
+tvinga	to force, compel  ·  Ingen tvingar dig att stanna. (Nobody is forcing you to stay.)
+uppfylla	to fulfill, satisfy  ·  Han uppfyller alla krav för jobbet. (He meets all the requirements for the job.)
+uppnå	to achieve, reach  ·  Hon uppnådde sitt mål att springa ett maraton. (She achieved her goal of running a marathon.)
+upptäcka	to discover  ·  Vi upptäckte en liten sjö i skogen. (We discovered a small lake in the forest.)
+uttrycka	to express  ·  Det är svårt att uttrycka sig på ett nytt språk. (It's hard to express yourself in a new language.)
+utnyttja	to utilize, exploit  ·  Vi bör utnyttja det fina vädret. (We should make the most of the nice weather.)
+värdera	to evaluate, rate  ·  Mäklaren värderade huset till tre miljoner. (The estate agent valued the house at three million.)
+växa	to grow  ·  Barnen växer så fort. (Children grow so fast.)
+övertyga	to convince, persuade  ·  Hon övertygade mig att följa med. (She convinced me to come along.)
+öka	to increase  ·  Antalet cyklister ökar varje år. (The number of cyclists increases every year.)
+anta	to assume, accept  ·  Jag antar att du är hungrig. (I assume you're hungry.)
+avstå	to refrain, abstain  ·  Jag avstår från kaffe efter klockan tre. (I skip coffee after three o'clock.)
+belysa	to highlight, illuminate  ·  Rapporten belyser problemen i skolan. (The report highlights the problems in the school.)
+bedöma	to judge, assess  ·  Läraren bedömer våra uppsatser. (The teacher assesses our essays.)
+bemöta	to respond to, treat  ·  Hon bemötte kritiken lugnt. (She responded to the criticism calmly.)
+bevilja	to grant, approve  ·  Han beviljades ett studielån. (He was granted a student loan.)
+debattera	to debate  ·  Politikerna debatterade skatterna i tv. (The politicians debated taxes on TV.)
+dra	to pull, draw  ·  Dra i handtaget för att öppna. (Pull the handle to open.)
+döma	to judge, sentence  ·  Han dömdes till två års fängelse. (He was sentenced to two years in prison.)
+engagera	to engage, involve  ·  Hon engagerar sig i miljöfrågor. (She gets involved in environmental issues.)
+framhålla	to emphasize, stress  ·  Chefen framhöll hur viktigt samarbetet är. (The boss stressed how important cooperation is.)
+framstå	to appear, seem  ·  Han framstår som väldigt självsäker. (He comes across as very self-confident.)
+fungera	to function, work  ·  Min telefon fungerar inte. (My phone isn't working.)
+förvalta	to manage, administer  ·  En bank förvaltar hans pengar. (A bank manages his money.)
+granska	to review, inspect  ·  Revisorn granskar företagets böcker. (The auditor reviews the company's books.)
+gälla	to apply, be valid  ·  Biljetten gäller i 75 minuter. (The ticket is valid for 75 minutes.)
+hantera	to handle, deal with  ·  Hon hanterar stress väldigt bra. (She handles stress very well.)
+hävda	to claim, assert  ·  Han hävdar att han är oskyldig. (He claims that he is innocent.)
+häva	to lift, rescind  ·  Regeringen hävde förbudet. (The government lifted the ban.)
+inleda	to initiate, begin  ·  Hon inledde talet med ett skämt. (She began the speech with a joke.)
+inrätta	to set up, establish  ·  Kommunen har inrättat en ny skola. (The municipality has set up a new school.)
+inse	to realize  ·  Jag insåg för sent att jag hade fel. (I realized too late that I was wrong.)
+intressera	to interest  ·  Jag har alltid intresserat mig för historia. (I've always been interested in history.)
+kritisera	to criticize  ·  Det är lätt att kritisera andra. (It's easy to criticize others.)
+motivera	to motivate, justify  ·  Hur motiverar du dig själv att träna? (How do you motivate yourself to exercise?)
+notera	to note, notice  ·  Jag noterade att du var sen i dag. (I noticed you were late today.)
+orientera	to orient, inform  ·  Chefen orienterade oss om de nya reglerna. (The boss briefed us on the new rules.)
+prioritera	to prioritize  ·  Du måste lära dig att prioritera. (You have to learn to prioritize.)
+publicera	to publish  ·  Tidningen publicerade artikeln i går. (The newspaper published the article yesterday.)
+redovisa	to report, present  ·  Gruppen redovisade sitt arbete för klassen. (The group presented its work to the class.)
+reflektera	to reflect  ·  Ta en stund och reflektera över dagen. (Take a moment and reflect on the day.)
+registrera	to register  ·  Du måste registrera dig innan du kan logga in. (You have to register before you can log in.)
+respektera	to respect  ·  Vi respekterar varandras åsikter. (We respect each other's opinions.)
+satsa	to invest, bet  ·  Företaget satsar på grön energi. (The company is investing in green energy.)
+skada	to damage, injure  ·  Han skadade foten när han spelade fotboll. (He hurt his foot playing football.)
+sköta	to manage, care for  ·  Vem sköter hunden när ni är bortresta? (Who takes care of the dog when you're away?)
+stärka	to strengthen  ·  Träning stärker musklerna. (Exercise strengthens the muscles.)
+styra	to steer, govern  ·  Det är regeringen som styr landet. (It is the government that governs the country.)
+säkra	to secure, ensure  ·  Vi måste säkra fönstren inför stormen. (We need to secure the windows before the storm.)
+tillämpa	to apply (a method/rule)  ·  Hon tillämpar samma metod på alla uppgifter. (She applies the same method to every task.)
+tolka	to interpret  ·  Det går att tolka texten på olika sätt. (The text can be interpreted in different ways.)
+uppfatta	to perceive, grasp  ·  Jag uppfattade inte vad han sa. (I didn't catch what he said.)
+upphöra	to cease, end  ·  Tjänsten upphör vid årets slut. (The service ends at the end of the year.)
+uppmana	to urge, call upon  ·  Polisen uppmanar alla att stanna inne. (The police are urging everyone to stay indoors.)
+upprätta	to draw up, establish  ·  Vi upprättade ett nytt kontrakt. (We drew up a new contract.)
+uppstå	to arise, originate  ·  Det uppstod ett problem med datorn. (A problem arose with the computer.)
+utbilda	to educate, train  ·  Skolan utbildar sjuksköterskor. (The school trains nurses.)
+utföra	to perform, carry out  ·  Arbetet utfördes av en elektriker. (The work was carried out by an electrician.)
+utgöra	to constitute, form  ·  Kvinnor utgör hälften av personalen. (Women make up half of the staff.)
+utse	to appoint, choose  ·  Hon utsågs till ny rektor. (She was appointed as the new head teacher.)
+utvecklas	to evolve, develop  ·  Språket utvecklas hela tiden. (Language evolves all the time.)
+värna	to protect, guard  ·  Vi måste värna om naturen. (We must protect nature.)
+vägra	to refuse  ·  Han vägrade att svara på frågan. (He refused to answer the question.)
+översätta	to translate  ·  Kan du översätta det här brevet? (Can you translate this letter?)
+överväga	to consider, weigh  ·  Jag överväger att byta jobb. (I'm considering changing jobs.)
+ett ansvar	responsibility  ·  Det är ditt ansvar att låsa dörren. (It's your responsibility to lock the door.)
+en ansökan	application  ·  Jag skickade min ansökan i går. (I sent my application yesterday.)
+en anställning	employment  ·  Hon fick en fast anställning efter ett år. (She got a permanent position after a year.)
+en arbetsplats	workplace  ·  Min arbetsplats ligger nära stationen. (My workplace is close to the station.)
+ett avtal	agreement, contract  ·  Vi skrev under avtalet i morse. (We signed the contract this morning.)
+ett beslut	decision  ·  Det var ett svårt beslut. (It was a difficult decision.)
+en chef	manager, boss  ·  Min chef är på semester. (My boss is on vacation.)
+en ekonomi	economy, finances  ·  Familjens ekonomi är ansträngd. (The family's finances are tight.)
+en erfarenhet	experience  ·  Hon har lång erfarenhet av vården. (She has long experience in healthcare.)
+ett företag	company, business  ·  Han startade ett eget företag. (He started his own company.)
+ett förslag	proposal, suggestion  ·  Har du något förslag på vad vi ska äta? (Do you have any suggestion for what we should eat?)
+ett samhälle	society  ·  Vi lever i ett öppet samhälle. (We live in an open society.)
+en styrelse	board of directors  ·  Styrelsen träffas fyra gånger om året. (The board meets four times a year.)
+en utbildning	education  ·  Hon har en utbildning inom ekonomi. (She has a degree in economics.)
+en utveckling	development  ·  Utvecklingen går väldigt snabbt. (Development is moving very fast.)
+ett yrke	profession, occupation  ·  Vilket yrke har du? (What is your profession?)
+en lön	salary, wage  ·  Lönen kommer den 25:e varje månad. (The salary comes on the 25th of every month.)
+ett möte	meeting  ·  Jag har ett möte klockan tio. (I have a meeting at ten.)
+ett projekt	project  ·  Projektet ska vara klart i maj. (The project should be finished in May.)
+ett resultat	result  ·  Vi är nöjda med resultatet. (We are happy with the result.)
+en regel	rule  ·  Det finns en regel mot mobiler i klassrummet. (There's a rule against phones in the classroom.)
+en lag	law  ·  Enligt lag måste man ha bilbälte. (By law you have to wear a seatbelt.)
+en skatt	tax  ·  Vi betalar mycket skatt i Sverige. (We pay a lot of tax in Sweden.)
+en tjänst	service, job post  ·  Kan du göra mig en tjänst? (Can you do me a favour?)
+en utmaning	challenge  ·  Att lära sig svenska är en stor utmaning. (Learning Swedish is a big challenge.)
+en allmänhet	general public  ·  Museet är öppet för allmänheten. (The museum is open to the public.)
+en anställd	employee  ·  Företaget har femtio anställda. (The company has fifty employees.)
+en avdelning	department, division  ·  Hon jobbar på ekonomiavdelningen. (She works in the finance department.)
+en avgift	fee, charge; maintenance fee  ·  Avgiften för föreningen är 300 kronor om året. (The membership fee is 300 kronor a year.)
+en fastighet	real estate, property  ·  De äger flera fastigheter i stan. (They own several properties in town.)
+en forskning	research  ·  Forskningen visar att sömn är viktigt. (Research shows that sleep is important.)
+ett framsteg	progress  ·  Du har gjort stora framsteg i svenska. (You've made great progress in Swedish.)
+en försäkring	insurance  ·  Har du en försäkring för lägenheten? (Do you have insurance for the apartment?)
+en handling	action, document  ·  Skicka in alla handlingar före fredag. (Send in all the documents before Friday.)
+en invånare	resident, inhabitant  ·  Staden har en miljon invånare. (The city has a million inhabitants.)
+en konsument	consumer  ·  Som konsument har du rätt att klaga. (As a consumer you have the right to complain.)
+en ledning	management, leadership  ·  Ledningen har beslutat att stänga kontoret. (Management has decided to close the office.)
+en personal	staff, personnel  ·  Personalen är mycket trevlig här. (The staff are very friendly here.)
+en rättighet	right (legal/moral)  ·  Utbildning är en rättighet för alla barn. (Education is a right for every child.)
+en skyldighet	duty, obligation  ·  Det är din skyldighet att betala skatt. (It's your duty to pay tax.)
+en sjukvård	healthcare  ·  Sjukvården i Sverige är skattefinansierad. (Healthcare in Sweden is funded by taxes.)
+ett stöd	support, grant  ·  Tack för ditt stöd. (Thank you for your support.)
+en tillgång	asset, access  ·  Hon är en stor tillgång för laget. (She is a great asset to the team.)
+en tillväxt	growth  ·  Landet har haft en stark tillväxt. (The country has had strong growth.)
+en utgift	expense  ·  Hyran är vår största utgift. (Rent is our biggest expense.)
+en verksamhet	activity, operations  ·  Verksamheten går med vinst. (The business is making a profit.)
+en vinst	profit, win  ·  Företaget gjorde en stor vinst i år. (The company made a big profit this year.)
+en åtgärd	measure, action  ·  Regeringen vidtar åtgärder mot brottsligheten. (The government is taking measures against crime.)
+en överenskommelse	agreement  ·  Vi kom fram till en överenskommelse. (We reached an agreement.)
+ett utbud	supply, range  ·  Butiken har ett stort utbud av ost. (The shop has a wide range of cheese.)
+en efterfrågan	demand  ·  Efterfrågan på bostäder är stor. (The demand for housing is high.)
+en jämställdhet	gender equality  ·  Sverige satsar mycket på jämställdhet. (Sweden puts a lot of effort into gender equality.)
+en rättvisa	justice, fairness  ·  Familjen kräver rättvisa. (The family demands justice.)
+en trygghet	security, safety  ·  Barn behöver trygghet. (Children need security.)
+en invandring	immigration  ·  Invandringen har ökat de senaste åren. (Immigration has increased in recent years.)
+en befolkning	population  ·  Sveriges befolkning är drygt tio miljoner. (Sweden's population is just over ten million.)
+en myndighet	government authority  ·  Skatteverket är en myndighet. (The Swedish Tax Agency is a government authority.)
+ett samarbete	cooperation  ·  Tack för ett gott samarbete. (Thanks for a good collaboration.)
+en resurs	resource  ·  Skolan saknar resurser. (The school lacks resources.)
+en konsumtion	consumption  ·  Vi borde minska vår konsumtion av kött. (We should reduce our consumption of meat.)
+en demokrati	democracy  ·  I en demokrati får alla rösta. (In a democracy everyone can vote.)
+ett val	election, choice  ·  Det är val i september. (There's an election in September.)
+en politiker	politician  ·  Hon vill bli politiker. (She wants to become a politician.)
+ett parti	political party  ·  Vilket parti röstar du på? (Which party do you vote for?)
+en regering	government  ·  Regeringen presenterade en ny budget. (The government presented a new budget.)
+en riksdag	parliament  ·  Riksdagen röstade ja till förslaget. (Parliament voted yes to the proposal.)
+en kommun	municipality  ·  Vi bor i en liten kommun i norr. (We live in a small municipality in the north.)
+en region	region, county  ·  Region Skåne ansvarar för sjukvården. (Region Skåne is responsible for healthcare.)
+en skattelag	tax law  ·  Den nya skattelagen gäller från januari. (The new tax law applies from January.)
+en budget	budget  ·  Vi har en tight budget den här månaden. (We have a tight budget this month.)
+en marknad	market  ·  Vi handlar grönsaker på marknaden varje lördag. (We buy vegetables at the market every Saturday.)
+en industri	industry  ·  Skogsindustrin är viktig för Sverige. (The forest industry is important for Sweden.)
+en handel	trade, commerce  ·  Handeln med Kina har ökat. (Trade with China has increased.)
+en export	export  ·  Exporten av bilar minskade förra året. (The export of cars fell last year.)
+en import	import  ·  Sverige är beroende av import av frukt. (Sweden depends on fruit imports.)
+en konkurrens	competition  ·  Det är hård konkurrens om jobben. (There is fierce competition for the jobs.)
+en kund	customer, client  ·  Kunden har alltid rätt. (The customer is always right.)
+en leverantör	supplier  ·  Vi har bytt leverantör av kaffe. (We have changed our coffee supplier.)
+en kollega	colleague  ·  Jag äter lunch med mina kollegor. (I eat lunch with my colleagues.)
+en fackförening	trade union  ·  Hon är med i en fackförening. (She is a member of a trade union.)
+en anledning	reason  ·  Finns det någon anledning att oroa sig? (Is there any reason to worry?)
+en bostad	housing, residence  ·  Det är svårt att hitta en bostad i Stockholm. (It's hard to find housing in Stockholm.)
+en framtid	future  ·  Vad vill du göra i framtiden? (What do you want to do in the future?)
+en hälsa	health  ·  Hälsan är viktigare än pengar. (Health is more important than money.)
+ett klimat	climate  ·  Klimatet blir varmare. (The climate is getting warmer.)
+en kultur	culture  ·  Fika är en viktig del av svensk kultur. (Fika is an important part of Swedish culture.)
+en miljö	environment  ·  Vi måste ta hand om miljön. (We have to take care of the environment.)
+en möjlighet	opportunity, possibility  ·  Det här är en stor möjlighet för dig. (This is a great opportunity for you.)
+en natur	nature  ·  Jag älskar att vara ute i naturen. (I love being out in nature.)
+ett område	area, region  ·  Vi bor i ett lugnt område. (We live in a quiet area.)
+ett problem	problem  ·  Inga problem! (No problem!)
+en säkerhet	safety, security  ·  Säkerheten på flygplatsen är sträng. (Security at the airport is strict.)
+en situation	situation  ·  Det är en svår situation för familjen. (It's a difficult situation for the family.)
+en skillnad	difference  ·  Vad är skillnaden mellan de två orden? (What's the difference between the two words?)
+en sjukdom	illness, disease  ·  Han har en allvarlig sjukdom. (He has a serious illness.)
+en trafik	traffic  ·  Det var mycket trafik på morgonen. (There was a lot of traffic in the morning.)
+en vana	habit  ·  Det är en dålig vana att äta sent. (It's a bad habit to eat late.)
+en vetenskap	science  ·  Hon är intresserad av vetenskap. (She is interested in science.)
+en åsikt	opinion  ·  Vad är din åsikt om saken? (What is your opinion on the matter?)
+ett ändamål	purpose  ·  Pengarna ska användas för ett gott ändamål. (The money will be used for a good cause.)
+en betydelse	meaning, significance  ·  Ordet har flera betydelser. (The word has several meanings.)
+en del	part, portion  ·  En del av lönen går till hyran. (Part of the salary goes to rent.)
+en effekt	effect, impact  ·  Medicinen hade ingen effekt. (The medicine had no effect.)
+ett faktum	fact  ·  Det är ett faktum att jorden är rund. (It is a fact that the earth is round.)
+en fördel	advantage  ·  En fördel med jobbet är att det ligger nära. (One advantage of the job is that it's close by.)
+en nackdel	disadvantage  ·  Nackdelen är att det är dyrt. (The disadvantage is that it's expensive.)
+en grund	foundation, basis  ·  Huset byggdes på en stark grund. (The house was built on a strong foundation.)
+en händelse	event, incident  ·  Polisen utreder händelsen. (The police are investigating the incident.)
+en idé	idea  ·  Vilken bra idé! (What a good idea!)
+ett innehåll	content  ·  Innehållet i boken är intressant. (The content of the book is interesting.)
+en känsla	feeling, emotion  ·  Jag har en känsla av att något är fel. (I have a feeling that something is wrong.)
+en kunskap	knowledge  ·  Kunskap är makt. (Knowledge is power.)
+en lösning	solution  ·  Vi måste hitta en lösning. (We have to find a solution.)
+ett mål	goal, target  ·  Mitt mål är att tala flytande svenska. (My goal is to speak fluent Swedish.)
+en mängd	amount, quantity  ·  Det kom en stor mängd snö i natt. (A large amount of snow fell last night.)
+en orsak	cause, reason  ·  Orsaken till branden är okänd. (The cause of the fire is unknown.)
+en plan	plan  ·  Har du någon plan för helgen? (Do you have any plans for the weekend?)
+en risk	risk  ·  Det finns en risk att det regnar. (There is a risk that it will rain.)
+en sanning	truth  ·  Säg sanningen! (Tell the truth!)
+ett syfte	purpose, aim  ·  Vad är syftet med mötet? (What is the purpose of the meeting?)
+ett tillstånd	condition, permit  ·  Du behöver ett tillstånd för att fiska här. (You need a permit to fish here.)
+en verklighet	reality  ·  I verkligheten är det mycket svårare. (In reality it's much harder.)
+ett värde	value, worth  ·  Huset har ökat i värde. (The house has increased in value.)
+en anpassning	adaptation  ·  Anpassningen till det nya landet tog tid. (Adjusting to the new country took time.)
+en anteckning	note  ·  Jag skrev en anteckning i min kalender. (I wrote a note in my calendar.)
+en användning	usage, application  ·  Användningen av mobiler har ökat bland barn. (The use of mobile phones has increased among children.)
+ett avstånd	distance  ·  Avståndet till stan är fem kilometer. (The distance to town is five kilometres.)
+ett begrepp	concept  ·  Lagom är ett typiskt svenskt begrepp. (Lagom is a typically Swedish concept.)
+en behandling	treatment  ·  Behandlingen tar tre veckor. (The treatment takes three weeks.)
+ett behov	need  ·  Det finns ett stort behov av lärare. (There is a great need for teachers.)
+ett belopp	amount of money  ·  Beloppet dras från ditt konto i morgon. (The amount will be taken from your account tomorrow.)
+ett beroende	addiction, dependency  ·  Hans beroende av spel förstörde familjen. (His gambling addiction ruined the family.)
+en beskrivning	description  ·  Beskrivningen av lägenheten stämde inte. (The description of the apartment wasn't accurate.)
+en förbindelse	connection, link  ·  Det finns en direkt förbindelse med tåg till Oslo. (There is a direct train connection to Oslo.)
+en förändring	change  ·  Det har skett stora förändringar på jobbet. (There have been big changes at work.)
+en hänsyn	consideration, respect  ·  Ta hänsyn till dina grannar. (Be considerate of your neighbours.)
+en jämförelse	comparison  ·  Det är ingen jämförelse mellan de två. (There's no comparison between the two.)
+en källa	source  ·  Vilken källa har du för den uppgiften? (What is your source for that information?)
+en kvalitet	quality  ·  Kvaliteten på maten var hög. (The quality of the food was high.)
+en mätning	measurement  ·  Mätningen visar att luften är ren. (The measurement shows that the air is clean.)
+en motsats	opposite  ·  Motsatsen till varm är kall. (The opposite of warm is cold.)
+en ordning	order, neatness  ·  Allt är i ordning. (Everything is in order.)
+en påverkan	impact, influence  ·  Sociala medier har stor påverkan på unga. (Social media has a big impact on young people.)
+ett samband	relation, connection  ·  Det finns ett samband mellan sömn och humör. (There is a connection between sleep and mood.)
+ett sammanhang	context  ·  Ordet betyder olika saker i olika sammanhang. (The word means different things in different contexts.)
+en satsning	initiative, investment  ·  Regeringen gör en stor satsning på järnvägen. (The government is making a big investment in the railway.)
+en slutsats	conclusion  ·  Vilken slutsats drar du av det? (What conclusion do you draw from that?)
+en undersökning	survey, investigation  ·  Enligt en ny undersökning är svenskar lyckliga. (According to a new survey, Swedes are happy.)
+en utrustning	equipment  ·  Vi hyrde utrustning för att åka skidor. (We rented equipment to go skiing.)
+ett yttrande	statement, opinion  ·  Ministerns yttrande väckte kritik. (The minister's statement drew criticism.)
+en attityd	attitude  ·  Han har en positiv attityd till allt. (He has a positive attitude to everything.)
+en bakgrund	background  ·  Hon har en bakgrund inom musik. (She has a background in music.)
+ett betyg	grade, rating  ·  Jag fick bra betyg i matte. (I got a good grade in maths.)
+en brist	lack, shortage  ·  Det råder brist på sjuksköterskor. (There is a shortage of nurses.)
+en detalj	detail  ·  Hon tänker på varje liten detalj. (She thinks about every little detail.)
+en diskussion	discussion  ·  Vi hade en lång diskussion om politik. (We had a long discussion about politics.)
+ett fokus	focus  ·  Vårt fokus ligger på kunderna. (Our focus is on the customers.)
+en framgång	success  ·  Konserten blev en stor framgång. (The concert was a great success.)
+en frihet	freedom  ·  Jag älskar känslan av frihet på semestern. (I love the feeling of freedom on holiday.)
+en gemenskap	community, fellowship  ·  Det finns en stark gemenskap i byn. (There is a strong sense of community in the village.)
+en gräns	border, limit; limit, threshold  ·  Det finns en gräns för vad jag tål. (There is a limit to what I can take.)
+en grundval	foundation, basis  ·  Förtroende är grundvalen för en relation. (Trust is the foundation of a relationship.)
+ett hinder	obstacle, barrier  ·  Språket var det största hindret. (The language was the biggest obstacle.)
+ett hushåll	household  ·  Varje hushåll får en broschyr. (Every household gets a brochure.)
+ett inflytande	influence  ·  Föräldrar har stort inflytande på sina barn. (Parents have a great influence on their children.)
+en information	information  ·  Mer information finns på hemsidan. (More information is available on the website.)
+en insats	effort, contribution  ·  Tack för din insats i dag. (Thanks for your effort today.)
+ett intresse	interest  ·  Har du några intressen? (Do you have any interests?)
+ett krav	requirement, demand  ·  Kraven på bostadslån har skärpts. (The requirements for mortgages have been tightened.)
+en kris	crisis  ·  Landet befinner sig i en ekonomisk kris. (The country is in an economic crisis.)
+en kritik	criticism  ·  Hon tog kritiken på allvar. (She took the criticism seriously.)
+en livsstil	lifestyle  ·  Han har en hälsosam livsstil. (He has a healthy lifestyle.)
+en metod	method  ·  Vilken metod använder du för att plugga? (What method do you use to study?)
+ett mönster	pattern  ·  Tröjan har ett fint mönster. (The sweater has a nice pattern.)
+en nivå	level  ·  Vilken nivå är din svenska på? (What level is your Swedish at?)
+en princip	principle  ·  Jag lånar aldrig pengar, av princip. (I never borrow money, on principle.)
+en process	process  ·  Att lära sig ett språk är en lång process. (Learning a language is a long process.)
+en reaktion	reaction  ·  Hennes reaktion var att börja skratta. (Her reaction was to start laughing.)
+en roll	role  ·  Han spelar huvudrollen i filmen. (He plays the lead role in the film.)
+en sammanfattning	summary  ·  Skriv en kort sammanfattning av texten. (Write a short summary of the text.)
+ett skäl	reason, motive  ·  Det finns goda skäl att vara försiktig. (There are good reasons to be careful.)
+en struktur	structure  ·  Företaget har en platt struktur. (The company has a flat structure.)
+ett svar	answer, response  ·  Jag väntar fortfarande på ett svar. (I'm still waiting for an answer.)
+ett system	system  ·  Det svenska skolsystemet är gratis. (The Swedish school system is free.)
+en teknik	technology, technique  ·  Ny teknik gör livet enklare. (New technology makes life easier.)
+en tendens	tendency, trend  ·  Det finns en tendens att handla mer på nätet. (There is a tendency to shop more online.)
+en teori	theory  ·  Det är bara en teori. (It's just a theory.)
+en tidpunkt	point in time  ·  Vid den tidpunkten bodde jag i Malmö. (At that point in time I lived in Malmö.)
+ett tillfälle	occasion, opportunity  ·  Vi ses vid ett annat tillfälle. (We'll see each other on another occasion.)
+en tradition	tradition  ·  Att dansa runt midsommarstången är en tradition. (Dancing around the maypole is a tradition.)
+en uppgift	task, data  ·  Min uppgift är att svara i telefon. (My task is to answer the phone.)
+en upplevelse	experience  ·  Resan var en fantastisk upplevelse. (The trip was a fantastic experience.)
+ett ursprung	origin  ·  Ordet har sitt ursprung i latin. (The word has its origin in Latin.)
+ett uttryck	expression  ·  "Ta det lugnt" är ett vanligt uttryck. ("Take it easy" is a common expression.)
+en yta	surface, area  ·  Lägenhetens yta är 60 kvadratmeter. (The apartment's floor area is 60 square metres.)
+en ålder	age  ·  Vid vilken ålder börjar barn skolan? (At what age do children start school?)
+ett ämne	subject, topic, substance  ·  Vilket är ditt favoritämne i skolan? (What is your favourite subject at school?)
+en avsikt	intention  ·  Det var inte min avsikt att göra dig ledsen. (It wasn't my intention to make you sad.)
+ett bakslag	setback  ·  Skadan var ett stort bakslag för laget. (The injury was a big setback for the team.)
+en belastning	load, strain  ·  Hösten innebär en hög belastning på vården. (Autumn means a heavy load on healthcare.)
+aktuell	current, relevant  ·  Frågan är mycket aktuell just nu. (The question is very topical right now.)
+allmän	general, public  ·  Det är allmän kunskap. (It's general knowledge.)
+ansvarig	responsible  ·  Vem är ansvarig för projektet? (Who is responsible for the project?)
+beroende	dependent  ·  Barn är beroende av sina föräldrar. (Children are dependent on their parents.)
+behövlig	necessary  ·  Det är en behövlig reform. (It's a needed reform.)
+bestämd	determined, specific  ·  Vi möts vid en bestämd tid. (We meet at a set time.)
+bred	broad, wide  ·  Floden är bred här. (The river is wide here.)
+tydlig	clear, distinct  ·  Instruktionerna var mycket tydliga. (The instructions were very clear.)
+enkel	simple, easy  ·  Det är enkelt att laga. (It's easy to cook.)
+ensam	lonely, alone  ·  Hon känner sig ensam ibland. (She feels lonely sometimes.)
+farlig	dangerous  ·  Det är farligt att cykla utan hjälm. (It's dangerous to cycle without a helmet.)
+fysisk	physical  ·  Jobbet är fysiskt tungt. (The job is physically demanding.)
+försiktig	cautious, careful  ·  Var försiktig, isen är tunn! (Be careful, the ice is thin!)
+gemensam	common, shared  ·  Vi har ett gemensamt konto. (We have a joint account.)
+gravid	pregnant  ·  Hon är gravid i femte månaden. (She is five months pregnant.)
+hel	whole, entire  ·  Jag har läst hela boken. (I've read the whole book.)
+hälsosam	healthy  ·  Grönsaker är hälsosamma. (Vegetables are healthy.)
+huvudsaklig	main, principal  ·  Den huvudsakliga orsaken var brist på pengar. (The main reason was a lack of money.)
+intressant	interesting  ·  Vilken intressant fråga! (What an interesting question!)
+känslig	sensitive  ·  Han är känslig för kritik. (He is sensitive to criticism.)
+klar	clear, ready  ·  Är du klar snart? (Are you ready soon?)
+komplett	complete  ·  Listan är inte komplett än. (The list isn't complete yet.)
+kraftig	powerful, heavy, sturdy  ·  Det blåste kraftiga vindar i natt. (There were strong winds last night.)
+likadan	identical, same  ·  Våra jackor är likadana. (Our jackets are identical.)
+lokal	local  ·  Jag läser den lokala tidningen. (I read the local newspaper.)
+märklig	strange, remarkable  ·  Det var en märklig dag. (It was a strange day.)
+möjlig	possible  ·  Är det möjligt att boka i förväg? (Is it possible to book in advance?)
+motsatt	opposite  ·  Hon gick åt motsatt håll. (She went in the opposite direction.)
+muntlig	oral, verbal  ·  I morgon har vi ett muntligt prov. (Tomorrow we have an oral exam.)
+naturlig	natural  ·  Det är helt naturligt att vara nervös. (It's completely natural to be nervous.)
+nödvändig	necessary, essential  ·  Det är nödvändigt att ha ett pass. (It is necessary to have a passport.)
+nöjd	satisfied, pleased  ·  Är du nöjd med maten? (Are you happy with the food?)
+närvarande	present, attending  ·  Alla var närvarande på mötet. (Everyone was present at the meeting.)
+obekväm	uncomfortable  ·  De nya skorna är obekväma. (The new shoes are uncomfortable.)
+olika	different, various  ·  Vi har olika åsikter. (We have different opinions.)
+osäker	uncertain, insecure  ·  Jag är osäker på vad jag ska välja. (I'm unsure what to choose.)
+personlig	personal  ·  Det är en personlig fråga. (That's a personal question.)
+plötslig	sudden  ·  Det kom en plötslig regnskur. (There was a sudden shower.)
+positiv	positive  ·  Svaret var positivt. (The answer was positive.)
+praktisk	practical  ·  En ryggsäck är praktisk på resan. (A backpack is practical on the trip.)
+psykisk	mental, psychological  ·  Psykisk ohälsa är vanligt bland unga. (Mental illness is common among young people.)
+ren	clean, pure  ·  Är handdukarna rena? (Are the towels clean?)
+sällsynt	rare  ·  Den här fågeln är mycket sällsynt. (This bird is very rare.)
+säker	safe, sure  ·  Är du säker på det? (Are you sure about that?)
+sannolik	probable, likely  ·  Det är sannolikt att det snöar i morgon. (It's likely that it will snow tomorrow.)
+senast	recent, latest  ·  Har du sett hans senaste film? (Have you seen his latest film?)
+självständig	independent  ·  Barnen blir mer självständiga för varje år. (The children get more independent every year.)
+skriftlig	written  ·  Du får ett skriftligt svar inom en vecka. (You'll get a written reply within a week.)
+snabb	fast, quick  ·  Hon är en snabb löpare. (She is a fast runner.)
+spännande	exciting  ·  Filmen var väldigt spännande. (The movie was very exciting.)
+stark	strong  ·  Kaffet är för starkt. (The coffee is too strong.)
+svår	difficult, hard  ·  Provet var svårt. (The test was difficult.)
+särskild	special, particular  ·  Det finns ingen särskild anledning. (There's no particular reason.)
+tidig	early  ·  Jag går upp tidigt på morgonen. (I get up early in the morning.)
+tillräcklig	sufficient, enough  ·  Har vi tillräckligt med mat? (Do we have enough food?)
+tom	empty  ·  Kylskåpet är tomt. (The fridge is empty.)
+trygg	secure, safe  ·  Jag känner mig trygg här. (I feel safe here.)
+tung	heavy  ·  Väskan är för tung. (The bag is too heavy.)
+typisk	typical  ·  Det är typiskt honom att komma för sent. (It's typical of him to be late.)
+tyst	quiet, silent  ·  Var tyst, bebisen sover! (Be quiet, the baby is sleeping!)
+underbar	wonderful  ·  Vi hade en underbar kväll. (We had a wonderful evening.)
+unik	unique  ·  Varje snöflinga är unik. (Every snowflake is unique.)
+utländsk	foreign  ·  Hon har ett utländskt körkort. (She has a foreign driving licence.)
+vanlig	common, usual  ·  Det är vanligt att fika på jobbet. (It's common to have fika at work.)
+viktig	important  ·  Det är viktigt att sova ordentligt. (It's important to sleep properly.)
+värdefull	valuable  ·  Ringen är mycket värdefull. (The ring is very valuable.)
+allvarlig	serious  ·  Läget är allvarligt. (The situation is serious.)
+annorlunda	different  ·  Livet här är väldigt annorlunda. (Life here is very different.)
+begränsad	limited, restricted  ·  Antalet platser är begränsat. (The number of places is limited.)
+betydande	significant, considerable  ·  Det blev en betydande ökning av priserna. (There was a significant increase in prices.)
+definitiv	definitive, final  ·  Det är mitt definitiva svar. (That's my final answer.)
+ekonomisk	economic, financial  ·  Familjen har ekonomiska problem. (The family has financial problems.)
+enhetlig	uniform, standardized  ·  Alla skolor ska ha ett enhetligt system. (All schools should have a uniform system.)
+faktisk	actual, factual  ·  Den faktiska kostnaden blev högre. (The actual cost was higher.)
+frivillig	voluntary  ·  Det är frivilligt att delta. (Taking part is voluntary.)
+grundläggande	fundamental, basic  ·  Att kunna läsa är grundläggande. (Being able to read is fundamental.)
+gällande	valid, current  ·  Enligt gällande regler måste du ha visum. (According to current rules you need a visa.)
+hållbar	sustainable, durable  ·  Vi vill bygga ett hållbart samhälle. (We want to build a sustainable society.)
+hänsynsfull	considerate  ·  Hon är alltid så hänsynsfull mot andra. (She is always so considerate towards others.)
+laglig	legal, lawful  ·  Är det lagligt att plocka svamp här? (Is it legal to pick mushrooms here?)
+lämplig	suitable, appropriate  ·  Det är ingen lämplig tid att ringa. (It's not a suitable time to call.)
+motsvarande	corresponding; equivalent  ·  Han har en motsvarande utbildning från Iran. (He has an equivalent education from Iran.)
+medveten	aware, conscious  ·  Jag är medveten om riskerna. (I'm aware of the risks.)
+märkbar	noticeable  ·  Det blev en märkbar skillnad. (There was a noticeable difference.)
+noggrann	meticulous, careful  ·  Hon är mycket noggrann med sitt arbete. (She is very careful with her work.)
+nyttig	useful, healthy  ·  Morötter är nyttiga. (Carrots are good for you.)
+officiell	official  ·  Svenska är det officiella språket. (Swedish is the official language.)
+olaglig	illegal  ·  Det är olagligt att köra rattfull. (It's illegal to drink and drive.)
+pålitlig	reliable, trustworthy  ·  Bilen är gammal men pålitlig. (The car is old but reliable.)
+rimlig	reasonable, fair  ·  Det låter som ett rimligt pris. (That sounds like a reasonable price.)
+uppenbar	obvious, apparent  ·  Det var uppenbart att hon ljög. (It was obvious that she was lying.)
+väsentlig	essential, vital  ·  Vatten är väsentligt för livet. (Water is essential for life.)
+aktiv	active  ·  Hon är aktiv i en förening. (She is active in a club.)
+akut	acute, urgent  ·  Han fick åka in till akuten. (He had to go to the emergency room.)
+avancerad	advanced  ·  Kursen är för avancerade elever. (The course is for advanced students.)
+beviljad	granted, approved  ·  Den beviljade summan räcker inte. (The granted amount isn't enough.)
+central	central, key  ·  Hotellet har ett centralt läge. (The hotel has a central location.)
+direkt	direct  ·  Vi flyger direkt till New York. (We're flying direct to New York.)
+djup	deep  ·  Sjön är väldigt djup. (The lake is very deep.)
+effektiv	effective, efficient  ·  Det är ett effektivt sätt att lära sig. (It's an efficient way to learn.)
+exakt	exact, precise  ·  Vad är den exakta adressen? (What is the exact address?)
+enorm	enormous, huge  ·  Huset är enormt. (The house is enormous.)
+falsk	false, fake  ·  Han reste på ett falskt pass. (He travelled on a fake passport.)
+fast	fixed, solid  ·  Hon har ett fast jobb nu. (She has a permanent job now.)
+flexibel	flexible  ·  Mina arbetstider är flexibla. (My working hours are flexible.)
+formell	formal  ·  Mejlet var väldigt formellt. (The email was very formal.)
+framtida	future (attributive)  ·  Vi sparar för framtida behov. (We're saving for future needs.)
+färsk	fresh  ·  Brödet är färskt. (The bread is fresh.)
+grundlig	thorough  ·  Polisen gjorde en grundlig utredning. (The police did a thorough investigation.)
+hemlig	secret  ·  Det är en hemlig plan. (It's a secret plan.)
+historisk	historical  ·  Det var en historisk dag för landet. (It was a historic day for the country.)
+idealisk	ideal  ·  Vädret var idealiskt för en picknick. (The weather was ideal for a picnic.)
+indirekt	indirect  ·  Han gav ett indirekt svar. (He gave an indirect answer.)
+internationell	international  ·  Hon jobbar på ett internationellt företag. (She works at an international company.)
+komplex	complex  ·  Det är en komplex fråga. (It's a complex question.)
+konkret	concrete, specific  ·  Kan du ge ett konkret exempel? (Can you give a concrete example?)
+kritisk	critical  ·  Läget är kritiskt. (The situation is critical.)
+långsiktig	long-term  ·  Vi behöver en långsiktig lösning. (We need a long-term solution.)
+kortsiktig	short-term  ·  Det är bara en kortsiktig lösning. (It's only a short-term solution.)
+logisk	logical  ·  Det låter logiskt. (That sounds logical.)
+måttlig	moderate  ·  Det blir måttlig vind i morgon. (There will be moderate wind tomorrow.)
+negativ	negative  ·  Testet var negativt. (The test was negative.)
+neutral	neutral  ·  Journalisten försökte vara neutral. (The journalist tried to stay neutral.)
+normal	normal, standard  ·  Det är helt normalt att känna så. (It's completely normal to feel that way.)
+objektiv	objective  ·  En domare måste vara objektiv. (A judge has to be objective.)
+okänd	unknown  ·  Avsändaren är okänd. (The sender is unknown.)
+osynlig	invisible  ·  Luften är osynlig. (Air is invisible.)
+passande	suitable, fitting  ·  Hon hittade en passande present. (She found a fitting present.)
+passiv	passive  ·  Han är för passiv på mötena. (He is too passive in meetings.)
+perfekt	perfect  ·  Vädret var perfekt. (The weather was perfect.)
+permanent	permanent  ·  Hon har fått ett permanent uppehållstillstånd. (She has received a permanent residence permit.)
+populär	popular  ·  Restaurangen är mycket populär. (The restaurant is very popular.)
+preliminär	preliminary  ·  Det här är bara ett preliminärt schema. (This is just a preliminary schedule.)
+primär	primary  ·  Vårt primära mål är att öka försäljningen. (Our primary goal is to increase sales.)
+relevant	relevant  ·  Din erfarenhet är relevant för jobbet. (Your experience is relevant to the job.)
+relativ	relative  ·  Allt är relativt. (Everything is relative.)
+sann	true  ·  Det är en sann historia. (It's a true story.)
+sen	late  ·  Det är sent, jag måste gå. (It's late, I have to go.)
+skadlig	harmful  ·  Rökning är skadligt för hälsan. (Smoking is harmful to your health.)
+stabil	stable  ·  Patientens tillstånd är stabilt. (The patient's condition is stable.)
+ständig	constant, continuous  ·  Han klagar ständigt på vädret. (He constantly complains about the weather.)
+synlig	visible  ·  Fläcken är knappt synlig. (The stain is barely visible.)
+tillfällig	temporary, accidental  ·  Hon har ett tillfälligt jobb i sommar. (She has a temporary job this summer.)
+traditionell	traditional  ·  Vi äter traditionell julmat. (We eat traditional Christmas food.)
+upptagen	busy, occupied  ·  Jag är upptagen just nu. (I'm busy right now.)
+uttrycklig	explicit, express  ·  Han fick en uttrycklig order att stanna. (He was given an explicit order to stay.)
+viss	certain, specific  ·  I vissa fall kan du få rabatt. (In certain cases you can get a discount.)
+ytlig	superficial  ·  Samtalet var ganska ytligt. (The conversation was rather superficial.)
+öppen	open, transparent  ·  Är affären öppen på söndagar? (Is the shop open on Sundays?)
+ömsesidig	mutual  ·  Vi har en ömsesidig respekt för varandra. (We have mutual respect for each other.)
+överdriven	exaggerated  ·  Hans reaktion var lite överdriven. (His reaction was a bit exaggerated.)
+överraskande	surprising  ·  Resultatet var överraskande bra. (The result was surprisingly good.)
+oberoende	independent  ·  Tidningen är politiskt oberoende. (The newspaper is politically independent.)
+påtaglig	tangible, obvious  ·  Det finns en påtaglig risk för översvämning. (There is a tangible risk of flooding.)
+storslagen	grand, magnificent  ·  Utsikten från berget var storslagen. (The view from the mountain was magnificent.)
+svag	weak  ·  Kaffet är för svagt. (The coffee is too weak.)
+tillåtlig	permissible  ·  Det är inte tillåtligt att filma här. (It is not permissible to film here.)
+utbredd	widespread  ·  Problemet är mycket utbrett. (The problem is very widespread.)
+aldrig	never  ·  Jag har aldrig varit i Kiruna. (I have never been to Kiruna.)
+alltid	always  ·  Hon kommer alltid i tid. (She always arrives on time.)
+annars	otherwise  ·  Ta på dig jackan, annars fryser du. (Put on your jacket, otherwise you'll be cold.)
+antagligen	probably  ·  Han är antagligen hemma nu. (He's probably at home now.)
+därför	therefore, that's why  ·  Jag var sjuk, därför kom jag inte. (I was sick, that's why I didn't come.)
+däremot	on the other hand  ·  Jag gillar te, däremot tycker jag inte om kaffe. (I like tea; on the other hand, I don't like coffee.)
+egentligen	actually, really  ·  Vad heter du egentligen? (What's your name, actually?)
+endast	only, solely  ·  Parkeringen är endast för gäster. (The parking is only for guests.)
+fortfarande	still  ·  Bor du fortfarande i Uppsala? (Do you still live in Uppsala?)
+försiktigt	carefully  ·  Kör försiktigt, vägen är hal. (Drive carefully, the road is slippery.)
+ganska	quite, rather  ·  Det är ganska kallt i dag. (It's quite cold today.)
+gärna	gladly, willingly  ·  Jag hjälper gärna till. (I'm happy to help.)
+genast	immediately, at once  ·  Kom hit genast! (Come here at once!)
+ibland	sometimes  ·  Ibland tar jag cykeln till jobbet. (Sometimes I take the bike to work.)
+i stället	instead  ·  Vi kan ta bussen i stället. (We can take the bus instead.)
+ju	as you know, after all  ·  Du vet ju att jag inte äter kött. (You know I don't eat meat, after all.)
+kanske	maybe, perhaps  ·  Kanske kommer hon i morgon. (Maybe she'll come tomorrow.)
+knappast	hardly, scarcely  ·  Det är knappast någon idé att vänta. (There's hardly any point in waiting.)
+länge	for a long time  ·  Jag har väntat länge. (I've been waiting for a long time.)
+nästan	almost, nearly  ·  Jag är nästan klar. (I'm almost done.)
+ofta	often  ·  Vi äter ofta pasta. (We often eat pasta.)
+också	also, too  ·  Jag vill också följa med. (I want to come along too.)
+plötsligt	suddenly  ·  Plötsligt gick strömmen. (Suddenly the power went out.)
+precis	precisely, exactly  ·  Det är precis vad jag menar. (That's exactly what I mean.)
+redan	already  ·  Har du redan ätit? (Have you already eaten?)
+särskilt	especially, particularly  ·  Jag gillar särskilt hösten. (I especially like autumn.)
+snart	soon  ·  Vi ses snart! (See you soon!)
+tyvärr	unfortunately  ·  Tyvärr kan jag inte komma. (Unfortunately I can't come.)
+absolut	absolutely  ·  Du har absolut rätt. (You're absolutely right.)
+följaktligen	consequently  ·  Tåget var sent och följaktligen missade jag mötet. (The train was late and consequently I missed the meeting.)
+förresten	by the way  ·  Förresten, har du hört från Anna? (By the way, have you heard from Anna?)
+hittills	so far, hitherto  ·  Hittills har allt gått bra. (So far everything has gone well.)
+hursomhelst	anyhow, anyway  ·  Hursomhelst, vi ses i morgon. (Anyway, see you tomorrow.)
+likaså	likewise  ·  Han är trött och likaså jag. (He's tired, and likewise am I.)
+nämligen	namely, that is to say  ·  Jag kan inte komma, jag är nämligen sjuk. (I can't come, because I'm sick, you see.)
+samtidigt	simultaneously, at the same time  ·  Det är svårt att lyssna och skriva samtidigt. (It's hard to listen and write at the same time.)
+sannolikt	likely, probably  ·  Det blir sannolikt regn i helgen. (There will probably be rain this weekend.)
+slutligen	finally, in conclusion  ·  Slutligen vill jag tacka alla. (Finally, I'd like to thank everyone.)
+således	thus, therefore  ·  Han hade ingen biljett och fick således gå av. (He had no ticket and thus had to get off.)
+alltför	far too, overly  ·  Det är alltför dyrt för mig. (It's far too expensive for me.)
+annanstans	elsewhere  ·  Vi får leta annanstans. (We'll have to look elsewhere.)
+därmed	thereby, thus  ·  Han vann loppet och därmed guldet. (He won the race and thereby the gold.)
+dessutom	furthermore, in addition  ·  Lägenheten är stor och dessutom billig. (The apartment is big and also cheap.)
+dock	however, yet  ·  Det var kallt, dock var det soligt. (It was cold; however, it was sunny.)
+drygt	slightly more than  ·  Resan tar drygt två timmar. (The trip takes just over two hours.)
+eventuellt	possibly, potentially  ·  Vi kommer eventuellt på lördag. (We may possibly come on Saturday.)
+framför allt	above all  ·  Jag vill framför allt vila i sommar. (Above all, I want to rest this summer.)
+fortsättningsvis	in the future, moving forward  ·  Fortsättningsvis sker mötena på måndagar. (Going forward, the meetings will be on Mondays.)
+förgäves	in vain  ·  Vi letade förgäves efter nyckeln. (We searched for the key in vain.)
+förmodligen	presumably, likely  ·  Hon är förmodligen på jobbet. (She's presumably at work.)
+först och främst	first and foremost  ·  Först och främst vill jag säga välkomna. (First and foremost, I want to say welcome.)
+helt enkelt	simply  ·  Det är helt enkelt för dyrt. (It's simply too expensive.)
+huvudsakligen	mainly, primarily  ·  Kunderna är huvudsakligen unga. (The customers are mainly young.)
+i alla fall	in any case  ·  Jag ringer dig i alla fall i kväll. (In any case, I'll call you tonight.)
+i princip	in principle  ·  I princip är jag ledig hela veckan. (In principle I'm free all week.)
+i själva verket	in fact, as a matter of fact  ·  I själva verket var det hans fel. (In fact it was his fault.)
+ingalunda	by no means  ·  Det är ingalunda säkert att han kommer. (It's by no means certain that he'll come.)
+inte heller	neither, nor  ·  Jag gillar inte fisk och inte heller räkor. (I don't like fish, nor shrimp.)
+inte minst	not least  ·  Alla hjälpte till, inte minst barnen. (Everyone helped, not least the children.)
+kort sagt	in short  ·  Kort sagt, det var en succé. (In short, it was a success.)
+möjligen	possibly  ·  Möjligen kan vi ses på fredag. (Possibly we can meet on Friday.)
+naturligtvis	naturally, of course  ·  Naturligtvis får du komma! (Of course you can come!)
+nyligen	recently, lately  ·  Jag har nyligen flyttat hit. (I've recently moved here.)
+nästan aldrig	hardly ever  ·  Han ringer nästan aldrig. (He hardly ever calls.)
+oavsett	regardless of  ·  Vi går ut oavsett väder. (We go out regardless of the weather.)
+oftast	mostly, usually  ·  Jag tar oftast tåget. (I usually take the train.)
+omgående	immediately, promptly  ·  Svara omgående, tack. (Please reply promptly.)
+ordentligt	properly, thoroughly  ·  Tvätta händerna ordentligt. (Wash your hands properly.)
+personligen	personally  ·  Personligen tycker jag att det är fel. (Personally, I think it's wrong.)
+sakta	slowly  ·  Prata lite saktare, tack. (Please speak a bit more slowly.)
+självklart	obviously, naturally  ·  Självklart hjälper jag dig. (Of course I'll help you.)
+sällan	seldom, rarely  ·  Vi går sällan på bio. (We rarely go to the cinema.)
+tidigare	earlier, previously  ·  Jag har träffat honom tidigare. (I've met him before.)
+tills vidare	for the time being, until further notice  ·  Butiken är stängd tills vidare. (The shop is closed until further notice.)
+trots allt	after all, despite everything  ·  Det var trots allt en bra dag. (It was a good day after all.)
+tydligen	apparently, evidently  ·  Tydligen har de flyttat. (Apparently they have moved.)
+ungefär	approximately, about  ·  Det kostar ungefär hundra kronor. (It costs about a hundred kronor.)
+uppenbarligen	obviously, clearly  ·  Han var uppenbarligen trött. (He was obviously tired.)
+ursprungligen	originally  ·  Hon kommer ursprungligen från Chile. (She is originally from Chile.)
+uttryckligen	explicitly  ·  Jag sa uttryckligen att du inte fick röra den. (I explicitly said that you couldn't touch it.)
+vanligtvis	usually, normally  ·  Vi äter vanligtvis middag klockan sex. (We usually eat dinner at six.)
+verkligen	really, truly  ·  Jag vill verkligen lära mig svenska. (I really want to learn Swedish.)
+ytterst	extremely, ultimately  ·  Det är ytterst viktigt att du kommer. (It's extremely important that you come.)
+ytterligare	additionally, further  ·  Vi behöver ytterligare två stolar. (We need two more chairs.)
+ännu	even, yet  ·  Han har inte kommit ännu. (He hasn't arrived yet.)
+ändå	anyway, still  ·  Det regnade, men vi gick ut ändå. (It was raining, but we went out anyway.)
+överhuvudtaget	at all, overall  ·  Har du överhuvudtaget läst boken? (Have you read the book at all?)
+övervägande	predominantly  ·  Publiken var övervägande ung. (The audience was predominantly young.)
+återigen	once again  ·  Bussen är återigen sen. (The bus is late once again.)
+däribland	including among them  ·  Många kom, däribland borgmästaren. (Many came, among them the mayor.)
+fastän	although, even though  ·  Hon gick till jobbet fastän hon var sjuk. (She went to work even though she was sick.)
+eftersom	since, because  ·  Jag stannar hemma eftersom jag är förkyld. (I'm staying home because I have a cold.)
+ifall	in case, if  ·  Ta med paraply ifall det regnar. (Bring an umbrella in case it rains.)
+om	if, whether  ·  Jag undrar om hon kommer. (I wonder if she's coming.)
+medan	while, whereas  ·  Han lagade mat medan jag dukade. (He cooked while I set the table.)
+tills	until  ·  Vänta här tills jag kommer tillbaka. (Wait here until I come back.)
+trots	despite, in spite of  ·  Vi gick ut trots regnet. (We went out despite the rain.)
+genom	through, by means of  ·  Vi gick genom parken. (We walked through the park.)
+enligt	according to  ·  Enligt prognosen blir det sol i morgon. (According to the forecast it will be sunny tomorrow.)
+bland	among  ·  Han är populär bland eleverna. (He is popular among the students.)
+innan	before (conjunction)  ·  Tvätta händerna innan du äter. (Wash your hands before you eat.)
+sedan	since, after, then  ·  Jag har bott här sedan 2020. (I've lived here since 2020.)
+utan	without, but rather  ·  Jag dricker kaffe utan socker. (I drink coffee without sugar.)
+förutom	besides, except for  ·  Alla kom förutom Erik. (Everyone came except Erik.)
+angående	regarding, concerning  ·  Jag ringer angående annonsen. (I'm calling regarding the ad.)
+beträffande	concerning, regarding  ·  Beträffande din fråga har jag inget svar än. (Concerning your question, I don't have an answer yet.)
+bortsett från	apart from, setting aside  ·  Bortsett från vädret var resan perfekt. (Apart from the weather, the trip was perfect.)
+då	when, since, as  ·  Då jag kom hem hade alla redan somnat. (When I got home everyone had already fallen asleep.)
+därför att	because  ·  Jag är trött därför att jag sov dåligt. (I'm tired because I slept badly.)
+efter	after, according to  ·  Vi ses efter jobbet. (See you after work.)
+från	from  ·  Jag kommer från Indonesien. (I come from Indonesia.)
+för att	in order to  ·  Jag pluggar för att få ett bättre jobb. (I study in order to get a better job.)
+före	before (preposition)  ·  Du måste vara här före klockan nio. (You have to be here before nine o'clock.)
+gentemot	towards, against  ·  Hon är alltid ärlig gentemot sina vänner. (She is always honest towards her friends.)
+hos	with, at the house of  ·  Jag sover hos min kompis i natt. (I'm sleeping at my friend's place tonight.)
+i enlighet med	in accordance with  ·  Vi agerade i enlighet med reglerna. (We acted in accordance with the rules.)
+i samband med	in connection with  ·  I samband med flytten bytte jag jobb. (In connection with the move I changed jobs.)
+i stället för	instead of  ·  Jag tar te i stället för kaffe. (I'll have tea instead of coffee.)
+inför	ahead of, facing  ·  Hon är nervös inför provet. (She's nervous ahead of the exam.)
+inom	within  ·  Du får svar inom två veckor. (You'll get an answer within two weeks.)
+intill	next to, beside  ·  Huset ligger intill sjön. (The house is next to the lake.)
+kring	around, regarding  ·  Vi satt kring bordet och pratade. (We sat around the table and talked.)
+liksom	as well as, like  ·  Hon gillar fotboll, liksom sin bror. (She likes football, like her brother.)
+med anledning av	on the occasion of, due to  ·  Med anledning av stormen är skolan stängd. (Due to the storm, the school is closed.)
+med tanke på	considering, in view of  ·  Med tanke på vädret stannar vi inne. (Considering the weather, we're staying in.)
+mellan	between  ·  Butiken ligger mellan banken och apoteket. (The shop is between the bank and the pharmacy.)
+mot	towards, against  ·  Vi gick mot stationen. (We walked towards the station.)
+omkring	around, approximately  ·  Det kom omkring hundra personer. (About a hundred people came.)
+på grund av	because of, due to  ·  Tåget är försenat på grund av snön. (The train is delayed because of the snow.)
+samt	as well as, and  ·  Ta med pass samt biljett. (Bring your passport as well as your ticket.)
+samtidigt som	while at the same time  ·  Hon pluggar samtidigt som hon jobbar. (She studies while working at the same time.)
+så att	so that  ·  Prata högre så att alla hör. (Speak louder so that everyone can hear.)
+så länge	as long as  ·  Du får stanna så länge du vill. (You can stay as long as you like.)
+till följd av	as a result of  ·  Vägen stängdes till följd av olyckan. (The road was closed as a result of the accident.)
+trots att	even though  ·  Hon log trots att hon var ledsen. (She smiled even though she was sad.)
+under	during, under  ·  Jag somnade under filmen. (I fell asleep during the film.)
+utan att	without (doing something)  ·  Han gick utan att säga hej då. (He left without saying goodbye.)
+utöver	in addition to, beyond  ·  Utöver lönen får du en bonus. (In addition to the salary, you get a bonus.)
+via	via, by way of  ·  Vi flög till Bali via Doha. (We flew to Bali via Doha.)
+åt	for, to  ·  Kan du köpa mjölk åt mig? (Can you buy milk for me?)
+hålla med	to agree  ·  Jag håller med dig. (I agree with you.)
+komma på	to think of, remember  ·  Jag kom på en bra idé. (I came up with a good idea.)
+se ut	to look like, appear  ·  Hur ser han ut? (What does he look like?)
+stänga av	to turn off, switch off  ·  Glöm inte att stänga av spisen. (Don't forget to turn off the stove.)
+sätta på	to turn on, switch on  ·  Kan du sätta på tv:n? (Can you turn on the TV?)
+ta hand om	to take care of  ·  Vem tar hand om katten? (Who takes care of the cat?)
+ta reda på	to find out, ascertain  ·  Jag ska ta reda på när tåget går. (I'll find out when the train leaves.)
+vara tvungen	to be forced/obligated  ·  Jag var tvungen att jobba över. (I had to work overtime.)
+vänja sig	to get used to  ·  Det tar tid att vänja sig vid mörkret. (It takes time to get used to the darkness.)
+ge upp	to give up  ·  Ge inte upp! (Don't give up!)
+göra i ordning	to prepare, get ready  ·  Jag ska göra i ordning middagen. (I'm going to get dinner ready.)
+hälsa på	to visit  ·  Vi hälsar på mormor i helgen. (We're visiting grandma this weekend.)
+känna igen	to recognize  ·  Jag kände inte igen dig med glasögon. (I didn't recognize you with glasses.)
+lägga till	to add  ·  Lägg till lite salt. (Add a little salt.)
+passa på	to take the opportunity  ·  Vi passade på att bada när solen sken. (We took the chance to swim while the sun was out.)
+se fram emot	to look forward to  ·  Jag ser fram emot semestern. (I'm looking forward to the holiday.)
+skriva under	to sign  ·  Skriv under här, tack. (Sign here, please.)
+ställa in	to cancel, adjust  ·  Matchen ställdes in på grund av regn. (The match was cancelled because of rain.)
+ta emot	to receive, accept  ·  Hon tog emot priset med ett leende. (She received the prize with a smile.)
+tänka efter	to think twice, reflect  ·  Tänk efter innan du svarar. (Think it over before you answer.)
+bero på	depends on  ·  Priset beror på storleken. (The price depends on the size.)
+bära sig åt	to behave, act  ·  Hur bar du dig åt för att laga den? (How did you go about fixing it?)
+dyka upp	to show up, turn up  ·  Han dök upp en timme för sent. (He turned up an hour late.)
+falla i glömska	to fall into oblivion  ·  Gamla traditioner faller lätt i glömska. (Old traditions easily fall into oblivion.)
+få tag på	to get hold of  ·  Jag har försökt få tag på dig hela dagen. (I've been trying to get hold of you all day.)
+föra vidare	to pass along  ·  Kan du föra vidare meddelandet till henne? (Can you pass the message on to her?)
+hålla på med	to be busy with  ·  Vad håller du på med? (What are you up to?)
+hålla tummarna	to keep fingers crossed  ·  Jag håller tummarna för dig! (I'm keeping my fingers crossed for you!)
+komma överens	to reach an agreement  ·  Vi kom överens om priset. (We agreed on the price.)
+lägga märke till	to pay attention to, notice  ·  Lade du märke till hans nya frisyr? (Did you notice his new haircut?)
+ställa krav	to make demands  ·  Chefen ställer höga krav på oss. (The boss makes high demands of us.)
+ställa frågor	to ask questions  ·  Barn ställer många frågor. (Children ask a lot of questions.)
+ta hänsyn till	to take into consideration  ·  Vi måste ta hänsyn till allas behov. (We must take everyone's needs into account.)
+ta initiativ	to take initiative  ·  Hon tog initiativ till en städdag. (She took the initiative for a clean-up day.)
+ta plats	to take place, take room  ·  Soffan tar för mycket plats. (The sofa takes up too much room.)
+ta ställning	to take a stance  ·  Du måste ta ställning i frågan. (You have to take a stand on the issue.)
+vara beredd på	to be prepared for  ·  Var beredd på att det kan bli kallt. (Be prepared for it to get cold.)
+vara medveten om	to be aware of  ·  Han är medveten om problemet. (He is aware of the problem.)
+visa sig	to turn out, prove to be  ·  Det visade sig att hon hade rätt. (It turned out that she was right.)
+än så länge	for now, so far  ·  Än så länge går allt enligt plan. (So far everything is going to plan.)
+anlända till	to arrive at  ·  Vi anlände till hotellet sent på kvällen. (We arrived at the hotel late in the evening.)
+bestämma sig för	to decide on  ·  Jag har bestämt mig för att flytta. (I've decided to move.)
+bära med sig	to bring along, carry  ·  Bär med dig vatten på vandringen. (Bring water with you on the hike.)
+dra nytta av	to benefit from, exploit  ·  Vi kan dra nytta av hennes erfarenhet. (We can benefit from her experience.)
+föra över	to transfer  ·  Jag förde över pengarna till ditt konto. (I transferred the money to your account.)
+gå med på	to consent to, agree to  ·  Hyresvärden gick med på att sänka hyran. (The landlord agreed to lower the rent.)
+gå igenom	to go through, experience  ·  Hon har gått igenom mycket i år. (She has been through a lot this year.)
+hålla fast vid	to stick to, adhere to  ·  Han håller fast vid sin åsikt. (He sticks to his opinion.)
+hålla sig till	to stick to, keep to  ·  Håll dig till ämnet, tack. (Stick to the topic, please.)
+höra av sig	to get in touch  ·  Hör av dig när du är framme! (Get in touch when you arrive!)
+komma fram till	to arrive at (a conclusion)  ·  Vi kom fram till att planen var bra. (We came to the conclusion that the plan was good.)
+lägga ner	to shut down, invest (time)  ·  Fabriken läggs ner nästa år. (The factory will be shut down next year.)
+lita på	to trust, rely on  ·  Du kan lita på mig. (You can trust me.)
+plocka fram	to bring out, produce  ·  Plocka fram tallrikarna, maten är klar. (Get out the plates, the food is ready.)
+råka ut för	to suffer, meet with  ·  Han råkade ut för en olycka på vägen hem. (He had an accident on the way home.)
+se till	to ensure, make sure  ·  Se till att du låser dörren. (Make sure you lock the door.)
+sätta igång	to set in motion, start  ·  Nu sätter vi igång! (Let's get started!)
+ta avstånd från	to distance oneself from  ·  Partiet tog avstånd från uttalandet. (The party distanced itself from the statement.)
+ta för givet	to take for granted  ·  Ta inte din hälsa för given. (Don't take your health for granted.)
+utgå från	to assume, base on  ·  Jag utgår från att du kommer. (I'm assuming you'll come.)
+ett avfall	waste, garbage  ·  Allt avfall ska sorteras. (All waste must be sorted.)
+en återvinning	recycling  ·  Återvinning av plast är viktigt. (Recycling plastic is important.)
+ett utsläpp	emissions, discharge  ·  Utsläppen från trafiken måste minska. (Emissions from traffic must decrease.)
+en förorening	pollution  ·  Föroreningen i sjön dödade fiskarna. (The pollution in the lake killed the fish.)
+en energi	energy  ·  Jag har ingen energi i dag. (I have no energy today.)
+en el	electricity  ·  Elen är dyr på vintern. (Electricity is expensive in winter.)
+ett bränsle	fuel  ·  Bilen går på förnybart bränsle. (The car runs on renewable fuel.)
+en klimatförändring	climate change  ·  Klimatförändringen påverkar hela världen. (Climate change affects the whole world.)
+ett ekosystem	ecosystem  ·  Skogen är ett känsligt ekosystem. (The forest is a sensitive ecosystem.)
+en hållbarhet	sustainability  ·  Företaget satsar på hållbarhet. (The company is focusing on sustainability.)
+en sopsortering	waste sorting  ·  Sopsortering är en vana i Sverige. (Waste sorting is a habit in Sweden.)
+en solenergi	solar energy  ·  Vi har installerat solpaneler för solenergi. (We've installed solar panels for solar energy.)
+en vindkraft	wind power  ·  Vindkraft står för en stor del av elen. (Wind power provides a large share of the electricity.)
+ett skyddat område	protected area  ·  Det är förbjudet att tälta i ett skyddat område. (Camping is forbidden in a protected area.)
+en naturtillgång	natural resource  ·  Vatten är vår viktigaste naturtillgång. (Water is our most important natural resource.)
+en smitta	infection, contagion  ·  Tvätta händerna för att undvika smitta. (Wash your hands to avoid infection.)
+ett recept	prescription, recipe  ·  Läkaren skrev ut ett recept på antibiotika. (The doctor wrote a prescription for antibiotics.)
+en medicin	medicine, medication  ·  Glöm inte att ta din medicin. (Don't forget to take your medicine.)
+ett symtom	symptom  ·  Feber är ett vanligt symtom. (Fever is a common symptom.)
+en diagnos	diagnosis  ·  Läkaren ställde en diagnos direkt. (The doctor made a diagnosis right away.)
+en vårdcentral	health center, clinic  ·  Ring vårdcentralen och boka en tid. (Call the health centre and book an appointment.)
+ett sjukhus	hospital  ·  Hon ligger på sjukhus sedan i går. (She has been in hospital since yesterday.)
+en läkare	doctor, physician  ·  Du borde gå till läkaren. (You should go to the doctor.)
+en sjuksköterska	nurse  ·  Sjuksköterskan tog mitt blodtryck. (The nurse took my blood pressure.)
+en patient	patient  ·  Läkaren har många patienter i dag. (The doctor has many patients today.)
+en akutmottagning	emergency room  ·  Vi fick vänta fem timmar på akutmottagningen. (We had to wait five hours in the emergency room.)
+en skada	injury, damage  ·  Skadan på bilen var liten. (The damage to the car was minor.)
+en smärta	pain, ache  ·  Jag har en smärta i ryggen. (I have a pain in my back.)
+en terapi	therapy  ·  Hon går i terapi en gång i veckan. (She goes to therapy once a week.)
+en psykisk hälsa	mental health  ·  Det är viktigt att prata om psykisk hälsa. (It's important to talk about mental health.)
+ett välmående	well-being  ·  Sömn är viktigt för ditt välmående. (Sleep is important for your well-being.)
+en motion	exercise, physical activity  ·  Lite motion varje dag gör dig gott. (A little exercise every day does you good.)
+en kost	diet, nutrition  ·  En bra kost ger mer energi. (A good diet gives you more energy.)
+en bostadsrätt	tenant-owned apartment  ·  De köpte en bostadsrätt i centrum. (They bought a tenant-owned apartment in the centre.)
+en hyresrätt	rented apartment  ·  Det är svårt att få en hyresrätt i Stockholm. (It's hard to get a rental apartment in Stockholm.)
+en villa	single-family house  ·  De bor i en villa med stor trädgård. (They live in a house with a big garden.)
+en hyra	rent  ·  Hyran ska betalas den sista varje månad. (The rent must be paid on the last day of every month.)
+ett lån	loan  ·  Vi tog ett lån för att köpa huset. (We took out a loan to buy the house.)
+en ränta	interest rate  ·  Räntan har gått upp igen. (The interest rate has gone up again.)
+en amortering	mortgage payment / amortization  ·  Vi betalar amortering på lånet varje månad. (We pay off part of the loan every month.)
+en granne	neighbor  ·  Min granne är väldigt trevlig. (My neighbour is very nice.)
+en renovering	renovation  ·  Renoveringen av köket tog två månader. (The kitchen renovation took two months.)
+ett underhåll	maintenance  ·  Huset behöver mycket underhåll. (The house needs a lot of maintenance.)
+en fastighetsägare	property owner  ·  Fastighetsägaren ansvarar för taket. (The property owner is responsible for the roof.)
+ett kontrakt	lease contract  ·  Jag skrev på kontraktet för lägenheten. (I signed the lease for the apartment.)
+en uppsägning	termination, notice  ·  Uppsägningstiden är tre månader. (The notice period is three months.)
+en flytt	move, relocation  ·  Flytten gick bättre än vi trodde. (The move went better than we thought.)
+en städning	cleaning  ·  Vi gör en storstädning varje vår. (We do a big clean every spring.)
+ett förråd	storage room  ·  Cyklarna står i förrådet. (The bikes are in the storage room.)
+en tvättstuga	shared laundry room  ·  Jag har bokat tvättstugan på tisdag. (I've booked the laundry room for Tuesday.)
+ett gemensamhetsutrymme	communal area  ·  Föreningen har ett gemensamhetsutrymme för fester. (The association has a communal area for parties.)
+en trädgård	garden  ·  Vi odlar tomater i trädgården. (We grow tomatoes in the garden.)
+en balkong	balcony  ·  Vi dricker kaffe på balkongen. (We drink coffee on the balcony.)
+en mäklare	real estate agent  ·  Mäklaren visade oss runt i huset. (The estate agent showed us around the house.)
+en visning	property viewing  ·  Det är visning av lägenheten på söndag. (There's a viewing of the apartment on Sunday.)
+en budgivning	bidding process  ·  Budgivningen pågick i en vecka. (The bidding went on for a week.)
+en fastighetsskatt	property tax  ·  Fastighetsskatten betalas en gång om året. (Property tax is paid once a year.)
+en uppvärmning	heating  ·  Uppvärmningen kostar mycket på vintern. (Heating costs a lot in winter.)
+en isolering	insulation  ·  Bra isolering sparar energi. (Good insulation saves energy.)
+en forskare	researcher, scientist  ·  Hon arbetar som forskare i biologi. (She works as a researcher in biology.)
+ett universitet	university  ·  Han studerar på Lunds universitet. (He studies at Lund University.)
+en högskola	college, higher education institution  ·  Hon läser till sjuksköterska på högskolan. (She's studying to be a nurse at the university college.)
+en examen	degree, graduation  ·  Han tog examen i juni. (He graduated in June.)
+en kurs	course  ·  Jag går en kurs i svenska. (I'm taking a Swedish course.)
+en föreläsning	lecture  ·  Föreläsningen börjar klockan tio. (The lecture starts at ten.)
+ett seminarium	seminar  ·  Vi diskuterade texten på seminariet. (We discussed the text at the seminar.)
+ett studiemedel	student financial aid  ·  Jag lever på studiemedel från CSN. (I live on student aid from CSN.)
+en avhandling	thesis, dissertation  ·  Hon skriver sin avhandling om klimatet. (She is writing her dissertation on the climate.)
+en litteratur	literature  ·  Hon läser mycket svensk litteratur. (She reads a lot of Swedish literature.)
+en pedagogik	pedagogy, teaching method  ·  Läraren har en modern pedagogik. (The teacher has a modern teaching approach.)
+en dator	computer  ·  Min dator är för långsam. (My computer is too slow.)
+ett nätverk	network  ·  Det är bra att ha ett stort nätverk. (It's good to have a big network.)
+en mjukvara	software  ·  Du måste uppdatera mjukvaran. (You have to update the software.)
+en hårdvara	hardware  ·  Problemet ligger i hårdvaran. (The problem is in the hardware.)
+en databas	database  ·  Alla kunder finns i vår databas. (All customers are in our database.)
+en algoritm	algorithm  ·  Appen använder en algoritm för att välja låtar. (The app uses an algorithm to pick songs.)
+en applikation	application, app  ·  Ladda ner applikationen på din telefon. (Download the application on your phone.)
+ett användargränssnitt	user interface  ·  Användargränssnittet är enkelt att förstå. (The user interface is easy to understand.)
+en digitalisering	digitalization  ·  Digitaliseringen har förändrat arbetslivet. (Digitalization has changed working life.)
+en skärm	screen  ·  Skärmen på min telefon är trasig. (The screen on my phone is broken.)
+en molntjänst	cloud service  ·  Jag sparar mina bilder i en molntjänst. (I save my photos in a cloud service.)
+en uppkoppling	internet connection  ·  Uppkopplingen är dålig på tåget. (The connection is bad on the train.)
+en tidning	newspaper, magazine  ·  Jag läser tidningen på morgonen. (I read the newspaper in the morning.)
+en journalistik	journalism  ·  Hon vill studera journalistik. (She wants to study journalism.)
+en nyhet	news item  ·  Har du hört nyheten? (Have you heard the news?)
+en sändning	broadcast  ·  Sändningen börjar klockan åtta. (The broadcast starts at eight.)
+en artikel	article  ·  Jag läste en intressant artikel om sömn. (I read an interesting article about sleep.)
+ett pressmeddelande	press release  ·  Företaget skickade ut ett pressmeddelande. (The company sent out a press release.)
+en källkritik	critical evaluation of sources  ·  Källkritik är viktigt på internet. (Being critical of sources is important on the internet.)
+en yttrandefrihet	freedom of speech  ·  Yttrandefrihet är en grundlag i Sverige. (Freedom of speech is protected by the constitution in Sweden.)
+en tryckfrihet	freedom of the press  ·  Sverige var först med tryckfrihet. (Sweden was the first with freedom of the press.)
+en reklam	advertisement, advertising  ·  Det är för mycket reklam på tv. (There's too much advertising on TV.)
+en målgrupp	target audience  ·  Vår målgrupp är unga vuxna. (Our target audience is young adults.)
+ett budskap	message  ·  Filmen har ett viktigt budskap. (The film has an important message.)
+en kommunikation	communication  ·  Bra kommunikation är nyckeln. (Good communication is the key.)
+en podd	podcast  ·  Jag lyssnar på en podd om historia. (I listen to a podcast about history.)
+en redaktör	editor  ·  Redaktören ändrade rubriken. (The editor changed the headline.)
+en publicering	publishing  ·  Publiceringen av boken försenades. (The publication of the book was delayed.)
+en granskning	investigative review  ·  Tidningens granskning avslöjade fusket. (The newspaper's investigation exposed the cheating.)
+en student	student  ·  Hon är student i Göteborg. (She is a student in Gothenburg.)
+en professor	professor  ·  Professorn håller föreläsningen i dag. (The professor is giving the lecture today.)
+ett klassrum	classroom  ·  Klassrummet är för litet. (The classroom is too small.)
+en tenta	exam, test  ·  Jag har tenta i morgon. (I have an exam tomorrow.)
+en läroplan	curriculum  ·  Läroplanen säger vad eleverna ska lära sig. (The curriculum says what the students should learn.)
+en skärmtid	screen time  ·  Vi begränsar barnens skärmtid. (We limit the children's screen time.)
+ett lösenord	password  ·  Jag har glömt mitt lösenord. (I've forgotten my password.)
+en säkerhetskopia	backup  ·  Gör en säkerhetskopia av dina filer. (Make a backup of your files.)
+en länk	link, hyperlink  ·  Jag skickar länken till dig. (I'll send you the link.)
+en webbplats	website  ·  Du hittar menyn på vår webbplats. (You'll find the menu on our website.)
+ett konto	bank account  ·  Lönen sätts in på mitt konto. (My salary is paid into my account.)
+ett sparkonto	savings account  ·  Jag sparar tusen kronor i månaden på ett sparkonto. (I save a thousand kronor a month in a savings account.)
+en investering	investment  ·  Huset var en bra investering. (The house was a good investment.)
+en aktie	stock, share  ·  Hon köpte aktier i företaget. (She bought shares in the company.)
+en fond	mutual fund  ·  Jag sparar i en indexfond. (I save in an index fund.)
+en deklaration	tax return  ·  Deklarationen ska vara inne i maj. (The tax return is due in May.)
+en inkomst	income  ·  Hans inkomst har ökat i år. (His income has increased this year.)
+en faktura	invoice  ·  Fakturan ska betalas inom 30 dagar. (The invoice must be paid within 30 days.)
+ett kvitto	receipt  ·  Spara kvittot om du vill byta. (Keep the receipt if you want to exchange it.)
+en skuld	debt  ·  Han har en stor skuld till banken. (He has a large debt to the bank.)
+en kredit	credit  ·  Kan jag betala på kredit? (Can I pay on credit?)
+en konkurs	bankruptcy  ·  Restaurangen gick i konkurs. (The restaurant went bankrupt.)
+en valuta	currency  ·  Vilken valuta använder man i Danmark? (What currency do they use in Denmark?)
+en växelkurs	exchange rate  ·  Växelkursen är dålig på flygplatsen. (The exchange rate is bad at the airport.)
+en inflation	inflation  ·  Inflationen gör allt dyrare. (Inflation makes everything more expensive.)
+en sänkning	cut, reduction  ·  Det blev en sänkning av priset. (There was a cut in the price.)
+en domstol	court of law  ·  Fallet avgörs i domstol. (The case will be decided in court.)
+en dom	verdict, sentence  ·  Domen kom i går. (The verdict came yesterday.)
+en åklagare	prosecutor  ·  Åklagaren kräver fängelse. (The prosecutor is demanding a prison sentence.)
+en advokat	lawyer, defense attorney  ·  Han anlitade en advokat. (He hired a lawyer.)
+ett vittne	witness  ·  Ett vittne såg vad som hände. (A witness saw what happened.)
+ett brott	crime, offense  ·  Det är ett brott att stjäla. (Stealing is a crime.)
+ett straff	punishment, penalty  ·  Straffet blev tre månaders fängelse. (The sentence was three months in prison.)
+en polis	police  ·  Ring polisen! (Call the police!)
+en utredning	investigation  ·  Utredningen tog ett år. (The investigation took a year.)
+en lagstiftning	legislation  ·  Ny lagstiftning ska skydda barn på nätet. (New legislation is meant to protect children online.)
+en paragraf	section/paragraph in law  ·  Enligt paragraf tre har du rätt att överklaga. (According to section three you have the right to appeal.)
+ett skadestånd	compensation, damages  ·  Hon fick skadestånd efter olyckan. (She got compensation after the accident.)
+ett myndighetsbeslut	official decision  ·  Myndighetsbeslutet kan överklagas. (The authority's decision can be appealed.)
+ett överklagande	legal appeal  ·  Han skickade in ett överklagande. (He sent in an appeal.)
+en blankett	form, application document  ·  Fyll i blanketten och skicka in den. (Fill in the form and send it in.)
+ett intyg	certificate, attestation  ·  Du behöver ett intyg från läkaren. (You need a certificate from the doctor.)
+en handläggare	caseworker, administrator  ·  Min handläggare på Migrationsverket svarar snabbt. (My caseworker at the Migration Agency answers quickly.)
+en handläggning	processing of a case  ·  Handläggningen tar ungefär sex månader. (Processing takes about six months.)
+en legitimation	ID card, qualification  ·  Kan jag se din legitimation? (Can I see your ID?)
+ett pass	passport  ·  Glöm inte passet! (Don't forget your passport!)
+ett personnummer	personal identity number  ·  Du behöver ett personnummer för att öppna ett konto. (You need a personal identity number to open an account.)
+en stämpel	stamp, seal  ·  Dokumentet måste ha en stämpel. (The document must have a stamp.)
+en fullmakt	power of attorney  ·  Jag gav min bror fullmakt att sköta mina pengar. (I gave my brother power of attorney to handle my money.)
+en registrering	registration  ·  Registreringen är gratis. (Registration is free.)
+en taxering	tax assessment  ·  Taxeringen visar hur mycket skatt du ska betala. (The tax assessment shows how much tax you have to pay.)
+en tull	customs  ·  Vi fick betala tull på paketet. (We had to pay customs on the parcel.)
+böter (pl.)	fine, penalty fee  ·  Han fick böter för att han körde för fort. (He got a fine for speeding.)
+en stämning	summons, lawsuit; atmosphere, mood  ·  Det var god stämning på festen. (There was a good atmosphere at the party.)
+ett brottmål	criminal case  ·  Domstolen behandlar ett brottmål i dag. (The court is hearing a criminal case today.)
+ett tvistemål	civil dispute  ·  Grannarna hamnade i ett tvistemål om staketet. (The neighbours ended up in a civil dispute about the fence.)
+en riksbank	central bank  ·  Riksbanken ansvarar för den svenska kronan. (The central bank is responsible for the Swedish krona.)
+en styrränta	policy rate  ·  Riksbanken höjde styrräntan. (The central bank raised the policy rate.)
+en utdelning	dividend  ·  Aktien gav en bra utdelning i år. (The share paid a good dividend this year.)
+ett amorteringskrav	mortgage repayment requirement  ·  Amorteringskravet gör det svårare att köpa bostad. (The repayment requirement makes it harder to buy a home.)
+en inställning	attitude, mindset  ·  Hon har en positiv inställning till livet. (She has a positive attitude to life.)
+ett argument	argument  ·  Det är ett bra argument. (That's a good argument.)
+en invändning	objection  ·  Har någon några invändningar? (Does anyone have any objections?)
+ett påstående	assertion, statement  ·  Hans påstående stämmer inte. (His claim isn't true.)
+en kompromiss	compromise  ·  Vi hittade en kompromiss. (We found a compromise.)
+en enighet	consensus, agreement  ·  Det råder enighet om förslaget. (There is agreement on the proposal.)
+en oenighet	disagreement  ·  Det finns en oenighet inom partiet. (There is disagreement within the party.)
+ett beröm	praise, compliment  ·  Hon fick mycket beröm för sitt arbete. (She got a lot of praise for her work.)
+en tvekan	hesitation, doubt  ·  Han svarade utan tvekan. (He answered without hesitation.)
+en osäkerhet	uncertainty  ·  Det råder stor osäkerhet på marknaden. (There is great uncertainty in the market.)
+en glädje	joy, happiness  ·  Barnen hoppade av glädje. (The children jumped for joy.)
+en sorg	grief, sorrow  ·  Hon kände stor sorg när hennes hund dog. (She felt great sorrow when her dog died.)
+en ilska	anger, rage  ·  Han kunde inte dölja sin ilska. (He couldn't hide his anger.)
+en rädsla	fear, dread  ·  Hon har en rädsla för hundar. (She has a fear of dogs.)
+en oro	worry, anxiety  ·  Det finns ingen anledning till oro. (There's no reason to worry.)
+ett hopp	hope  ·  Vi har fortfarande hopp om en lösning. (We still have hope of a solution.)
+en längtan	longing, yearning  ·  Hon kände en stark längtan hem. (She felt a strong longing for home.)
+en besvikelse	disappointment  ·  Resultatet var en stor besvikelse. (The result was a big disappointment.)
+en stolthet	pride  ·  Han såg på sin dotter med stolthet. (He looked at his daughter with pride.)
+en skam	shame  ·  Det är ingen skam att be om hjälp. (There's no shame in asking for help.)
+en avundsjuka	jealousy, envy  ·  Hans avundsjuka förstörde vänskapen. (His jealousy ruined the friendship.)
+en sympati	sympathy  ·  Jag har stor sympati för deras situation. (I have great sympathy for their situation.)
+en empati	empathy  ·  En bra läkare visar empati. (A good doctor shows empathy.)
+en lättnad	relief  ·  Det var en lättnad att höra att alla mådde bra. (It was a relief to hear that everyone was okay.)
+en nyfikenhet	curiosity  ·  Av ren nyfikenhet öppnade han lådan. (Out of pure curiosity he opened the box.)
+ett samtal	conversation, call  ·  Jag hade ett långt samtal med min mamma. (I had a long conversation with my mum.)
+en dialog	dialogue  ·  Vi måste föra en dialog med grannarna. (We need to have a dialogue with the neighbours.)
+en presentation	presentation  ·  Jag har en presentation på jobbet i morgon. (I have a presentation at work tomorrow.)
+en redogörelse	account, statement  ·  Han gav en kort redogörelse för händelsen. (He gave a short account of what happened.)
+ett meddelande	message, notification  ·  Jag fick ett meddelande från banken. (I got a message from the bank.)
+ett rykte	rumor, reputation  ·  Det går ett rykte om att han slutar. (There's a rumour that he's quitting.)
+ett tonfall	tone of voice  ·  Hennes tonfall var väldigt kallt. (Her tone of voice was very cold.)
+ett kroppsspråk	body language  ·  Kroppsspråk säger mycket om en person. (Body language says a lot about a person.)
+ett missförstånd	misunderstanding  ·  Det var bara ett missförstånd. (It was just a misunderstanding.)
+ett förtroende	trust, confidence  ·  Jag har stort förtroende för henne. (I have great confidence in her.)
+en misstänksamhet	suspicion  ·  Hans misstänksamhet mot alla gjorde honom ensam. (His suspicion of everyone made him lonely.)
+en respekt	respect  ·  Vi måste visa respekt för varandra. (We have to show respect for each other.)
+en ärlighet	honesty  ·  Ärlighet är viktigt i en relation. (Honesty is important in a relationship.)
+en vänskap	friendship  ·  Deras vänskap har varat i tjugo år. (Their friendship has lasted twenty years.)
+en kärlek	love  ·  Kärlek är allt man behöver. (Love is all you need.)
+en konflikt	conflict  ·  Det blev en konflikt mellan kollegorna. (A conflict arose between the colleagues.)
+en tillit	trust, reliance  ·  Barnet har full tillit till sina föräldrar. (The child has complete trust in its parents.)
+en misstro	distrust  ·  Det finns en stor misstro mot politiker. (There is great distrust of politicians.)
+en häpnad	amazement, astonishment  ·  Till allas häpnad vann han loppet. (To everyone's amazement, he won the race.)
+en beundran	admiration  ·  Jag känner stor beundran för henne. (I feel great admiration for her.)
+en hänsynslöshet	ruthlessness  ·  Hans hänsynslöshet chockade alla. (His ruthlessness shocked everyone.)
+en vilja	will, desire  ·  Med lite vilja går allt. (With a little will, anything is possible.)
+en lystnad	craving  ·  Jag har en lystnad efter något sött. (I have a craving for something sweet.)
+en medkänsla	compassion  ·  Hon visade stor medkänsla med de drabbade. (She showed great compassion for those affected.)
+en tidsperiod	time period  ·  Under den tidsperioden bodde jag utomlands. (During that time period I lived abroad.)
+en epok	era, epoch  ·  Vikingatiden var en spännande epok. (The Viking Age was an exciting era.)
+ett sekel	century  ·  Kyrkan byggdes för flera sekel sedan. (The church was built several centuries ago.)
+ett årtionde	decade  ·  Staden har vuxit mycket det senaste årtiondet. (The city has grown a lot in the last decade.)
+en dåtid	past  ·  Romanen handlar om dåtid och nutid. (The novel is about the past and the present.)
+en nutid	present time  ·  Hon skriver om livet i nutid. (She writes about life in the present day.)
+en tidsgräns	deadline  ·  Tidsgränsen för ansökan är på fredag. (The deadline for the application is on Friday.)
+en varaktighet	duration  ·  Kursens varaktighet är tio veckor. (The duration of the course is ten weeks.)
+ett antal	number, count  ·  Antalet elever har ökat. (The number of students has increased.)
+en volym	volume  ·  Sänk volymen lite, tack. (Turn the volume down a bit, please.)
+en vikt	weight, importance  ·  Hon lägger stor vikt vid ärlighet. (She places great importance on honesty.)
+ett mått	measure, dimension  ·  Vilka mått har bordet? (What are the dimensions of the table?)
+en längd	length, height  ·  Hur lång är längden på sängen? (What is the length of the bed?)
+en bredd	width  ·  Bredden på dörren är 90 centimeter. (The width of the door is 90 centimetres.)
+ett djup	depth  ·  Sjöns djup är tjugo meter. (The depth of the lake is twenty metres.)
+en höjd	height, altitude  ·  Planet flyger på en höjd av tio kilometer. (The plane flies at an altitude of ten kilometres.)
+en hastighet	speed, velocity  ·  Bilen höll en hög hastighet. (The car was going at high speed.)
+en temperatur	temperature  ·  Temperaturen sjönk under natten. (The temperature dropped during the night.)
+en procent	percent  ·  Priset har ökat med tio procent. (The price has gone up by ten percent.)
+en andel	share, proportion  ·  En stor andel av eleverna cyklar till skolan. (A large share of the students cycle to school.)
+en majoritet	majority  ·  En majoritet röstade ja. (A majority voted yes.)
+en minoritet	minority  ·  Samerna är en minoritet i Sverige. (The Sami are a minority in Sweden.)
+ett genomsnitt	average  ·  I genomsnitt sover vi sju timmar per natt. (On average we sleep seven hours a night.)
+en ökning	increase, growth  ·  Det har skett en ökning av antalet turister. (There has been an increase in the number of tourists.)
+en minskning	decrease, reduction  ·  Vi ser en minskning av arbetslösheten. (We're seeing a decrease in unemployment.)
+en kapacitet	capacity  ·  Arenan har en kapacitet på 30 000 personer. (The arena has a capacity of 30,000 people.)
+en grad	degree, extent  ·  Det beror i hög grad på vädret. (It depends to a large extent on the weather.)
+en omfattning	scope, extent  ·  Skadornas omfattning är fortfarande okänd. (The extent of the damage is still unknown.)
+en utsträckning	extent, degree  ·  I vilken utsträckning påverkar det oss? (To what extent does it affect us?)
+en skala	scale  ·  På en skala från ett till tio, hur mår du? (On a scale from one to ten, how are you feeling?)
+en kvantitet	quantity  ·  Kvalitet är viktigare än kvantitet. (Quality is more important than quantity.)
+en enhet	unit, entity  ·  Meter är en enhet för längd. (The metre is a unit of length.)
+en beräkning	calculation, estimate  ·  Enligt min beräkning räcker pengarna. (According to my calculation, the money is enough.)
+en uppskattning	estimate, evaluation  ·  Det är bara en grov uppskattning. (It's just a rough estimate.)
+en tidtabell	timetable, schedule  ·  Kolla tidtabellen för bussen. (Check the bus timetable.)
+ett schema	schedule, timetable  ·  Mitt schema är fullt den här veckan. (My schedule is full this week.)
+en försening	delay  ·  Vi ber om ursäkt för förseningen. (We apologize for the delay.)
+en minut	minute  ·  Jag kommer om fem minuter. (I'll be there in five minutes.)
+en timme	hour  ·  Resan tar en timme med tåg. (The trip takes an hour by train.)
+ett dygn	24-hour period  ·  Butiken är öppen dygnet runt. (The shop is open around the clock.)
+en månad	month  ·  Jag har bott här i en månad. (I've lived here for a month.)
+ett år	year  ·  Vi ses nästa år! (See you next year!)
+en millimeter	millimeter  ·  Det regnade bara några millimeter. (It only rained a few millimetres.)
+en centimeter	centimeter  ·  Snön är tjugo centimeter djup. (The snow is twenty centimetres deep.)
+en meter	meter  ·  Han är nästan två meter lång. (He is almost two metres tall.)
+en kilometer	kilometer  ·  Jag springer fem kilometer varje morgon. (I run five kilometres every morning.)
+ett gram	gram  ·  Du behöver hundra gram smör. (You need a hundred grams of butter.)
+ett kilo	kilogram  ·  Ett kilo äpplen kostar trettio kronor. (A kilo of apples costs thirty kronor.)
+en liter	liter  ·  Jag dricker en liter vatten om dagen. (I drink a litre of water a day.)
